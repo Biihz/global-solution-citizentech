@@ -119,4 +119,4 @@ A soma dos valores derivados pode diferir ligeiramente da massa total publicada 
 - Tabela 3: página 8.
 - Resultados e discussão: seção 3.1.
 - Arquivo de referência: `sustainability-14-07014.pdf`.
-- Data de transcrição registrada nos metadados anteriores: 09/11/2026.
+- Data de transcrição registrada: 09/11/2026.
