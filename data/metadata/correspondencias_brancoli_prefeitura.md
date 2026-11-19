@@ -46,7 +46,7 @@ Qualquer análise que utilize essas associações deve manter a indicação de c
 ## 7. Arquivos relacionados
 
 - `correspondencias_brancoli_prefeitura.csv`: tabela estruturada com as quatro correspondências.
-- `brancoli_2022_base_com_prefeitura.csv`: base derivada com os campos municipais adicionados à transcrição do estudo, quando presente no conjunto de dados do projeto.
+- `brancoli_2022_base_com_prefeitura.csv`: base derivada com os campos municipais adicionados à transcrição do estudo.
 - `brancoli_2022_base_integrada.csv`: base derivada da publicação de Brancoli, sem que isso implique validação oficial das correspondências municipais.
 
 ## 8. Fontes
