@@ -168,7 +168,6 @@ NutriRota/
 5. Execute os notebooks na ordem 01, 02 e 03, a partir da pasta `notebooks/`, conferindo os caminhos relativos e as fontes necessárias.
 6. Execute o dashboard a partir da raiz com `streamlit run app/nutrirota.py`.
 
-> [!IMPORTANT]
 > O Notebook 03 aceita os arquivos anuais do INMET nomeados como `INMET2024.zip`, `INMET2025.zip` e `INMET2026.zip`, desde que estejam em `data/raw/`.
 
 ## 11. Referências principais
