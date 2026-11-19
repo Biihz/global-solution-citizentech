@@ -98,8 +98,8 @@ O CSV `resultados_modelos_conab.csv` registra os seguintes resultados para o rec
 
 | Modelo | MAE (R$/kg) | RMSE (R$/kg) | MAPE (%) | R² |
 |---|---:|---:|---:|---:|
-| Ridge | 0,7457 | 1,0605 | 17,6256 | 0,7403 |
-| Random Forest | 0,7862 | 1,1107 | 19,0987 | 0,7152 |
+| Ridge | 0,7458 | 1,0600 | 17,6543 | 0,7406 |
+| Random Forest | 0,7841 | 1,1096 | 19,0158 | 0,7157 |
 | Baseline — Lag 1 | 0,7941 | 1,1764 | 18,9558 | 0,6805 |
 
 Nesse recorte, Ridge apresentou o menor MAE e o maior R² entre os três modelos. A conclusão se refere ao teste final observado e não comprova desempenho futuro ou operacional.
@@ -108,8 +108,8 @@ Nesse recorte, Ridge apresentou o menor MAE e o maior R² entre os três modelos
 
 O arquivo de resultados também apresenta recortes com populações de teste diferentes:
 
-- **Nove CEASAs com cobertura integral (`n = 270`):** Ridge — MAE 0,7052; RMSE 0,9984; MAPE 17,3810%; R² 0,7251.
-- **CEAGESP — São Paulo (`n = 30`):** Ridge — MAE 0,7194; RMSE 0,9240; MAPE 18,3471%; R² 0,6046.
+- **Nove CEASAs com cobertura integral (`n = 270`):** Ridge — MAE 0,7048; RMSE 0,9983; MAPE 17,4170%; R² 0,7252.
+- **CEAGESP — São Paulo (`n = 30`):** Ridge — MAE 0,7193; RMSE 0,9256; MAPE 18,3517%; R² 0,6032.
 
 > [!IMPORTANT]
 > Os recortes não devem ser comparados como se tivessem a mesma população. O geral inclui observações de teste das CEASAs com dados disponíveis; o segundo restringe-se às nove CEASAs com cobertura integral; o terceiro considera somente a CEAGESP-SP.
