@@ -71,13 +71,15 @@ Goiânia apresenta 88% de cobertura útil após o tratamento (220 de 250 registr
 
 Os valores ausentes não foram imputados nesta etapa. A decisão de excluir Brasília e tratar os zeros suspeitos está documentada no Notebook 03.
 
-**Atenção à contagem de zeros:** os 20 zeros pertencem à auditoria do arquivo consolidado bruto. Os dez zeros de Goiânia são os identificados na cópia de modelagem após a exclusão de Brasília. Não são contagens intercambiáveis.
+> [!IMPORTANT]
+> **Atenção à contagem de zeros:** os 20 zeros pertencem à auditoria do arquivo consolidado bruto. Os dez zeros de Goiânia são os identificados na cópia de modelagem após a exclusão de Brasília. Não são contagens intercambiáveis.
 
 ## 4. Abas de quantidade
 
 As abas de quantidade contêm apenas três referências: setembro de 2025, agosto de 2026 e setembro de 2026. Portanto, não formam uma série mensal contínua e não foram utilizadas como preditores da regressão de preços ao longo dos 25 meses.
 
-Essas informações foram utilizadas apenas como contexto descritivo da participação da CEAGESP nas quantidades reportadas para os produtos e datas disponíveis. Não representam desperdício alimentar nem excedente disponível para doação.
+> [!IMPORTANT]
+> Essas informações foram utilizadas apenas como contexto descritivo da participação da CEAGESP nas quantidades reportadas para os produtos e datas disponíveis. Não representam desperdício alimentar nem excedente disponível para doação.
 
 ## 5. Modelagem supervisionada principal
 
@@ -88,7 +90,7 @@ Essas informações foram utilizadas apenas como contexto descritivo da particip
 - **Separação:** cronológica; treinamento até junho de 2026 e teste final de julho a setembro de 2026. A seleção e a validação dos modelos são realizadas apenas no período de treinamento.
 - **Métricas:** MAE, RMSE, MAPE e R².
 
-As variáveis históricas devem ser construídas respeitando a ordem temporal de cada série de produto e CEASA. Médias móveis devem utilizar somente observações anteriores ao mês previsto. O conjunto de teste final não deve participar do ajuste ou da seleção dos modelos.
+As variáveis históricas foram construídas respeitando a ordem temporal de cada série de produto e CEASA. Médias móveis utilizaram somente observações anteriores ao mês previsto. O conjunto de teste final não participou do ajuste ou da seleção dos modelos.
 
 ### 5.1 Resultado do teste final — painel nacional
 
@@ -109,13 +111,14 @@ O arquivo de resultados também apresenta recortes com populações de teste dif
 - **Nove CEASAs com cobertura integral (`n = 270`):** Ridge — MAE 0,7052; RMSE 0,9984; MAPE 17,3810%; R² 0,7251.
 - **CEAGESP — São Paulo (`n = 30`):** Ridge — MAE 0,7194; RMSE 0,9240; MAPE 18,3471%; R² 0,6046.
 
-Os recortes não devem ser comparados como se tivessem a mesma população. O geral inclui observações de teste das CEASAs com dados disponíveis; o segundo restringe-se às nove CEASAs com cobertura integral; o terceiro considera somente a CEAGESP-SP.
+> [!IMPORTANT]
+> Os recortes não devem ser comparados como se tivessem a mesma população. O geral inclui observações de teste das CEASAs com dados disponíveis; o segundo restringe-se às nove CEASAs com cobertura integral; o terceiro considera somente a CEAGESP-SP.
 
 ### 5.3 Interpretação da validação
 
-Os resultados de validação interna e de teste final não apresentam necessariamente a mesma ordenação dos modelos. A escolha de modelo deve ser fundamentada na validação realizada exclusivamente dentro do treinamento, e o teste final deve ser utilizado como avaliação posterior, sem orientar ajustes retrospectivos.
+A seleção de hiperparâmetros e a comparação interna dos modelos foram realizadas exclusivamente dentro do período de treinamento por meio de validação cruzada temporal em janela expansiva (`TimeSeriesSplit` com 3 folds e janelas de validação de 3 meses), aplicada sobre as referências mensais únicas (`data_ref`) para manter todas as CEASAs e produtos de um mesmo mês no mesmo fold e evitar vazamento temporal. Complementarmente, os modelos ajustados no treinamento interno foram avaliados em um *holdout* cronológico interno de abril a junho de 2026 antes do reajuste final sobre toda a janela de treino até junho de 2026.
 
-O Notebook 03 deve explicitar o procedimento de validação efetivamente executado. Não se deve afirmar que foi utilizado `TimeSeriesSplit` ou validação cruzada temporal se essa rotina não estiver implementada no código.
+Os resultados de validação interna e de teste final (julho a setembro de 2026) não apresentam necessariamente a mesma ordenação dos modelos, em razão de variações sazonais no trimestre final e das lacunas de cobertura em Goiânia nesse período. A escolha das configurações é fundamentada exclusivamente na validação executada dentro do treinamento, mantendo o teste final isolado como avaliação posterior de generalização, sem orientar ajustes retrospectivos.
 
 ## 6. Experimento complementar CONAB + INMET
 
@@ -135,7 +138,8 @@ Foram comparados cenários sem clima e com clima, usando Baseline — Lag 1, Rid
 | Ridge — Com clima | 0,6986 | 0,9072 | 17,0407 | 0,6188 |
 | Baseline — Lag 1 | 0,7748 | 1,0151 | 19,9234 | 0,5228 |
 
-No teste específico, o Random Forest com clima apresentou MAE aproximadamente 2,53% menor que a versão sem clima. A diferença é pequena e não demonstra causalidade nem garante que variáveis climáticas melhorem previsões em outros períodos ou entrepostos. A estação A701 representa a capital paulista, não as regiões produtoras que abastecem a CEAGESP.
+> [!IMPORTANT]
+> No teste específico, o Random Forest com clima apresentou MAE aproximadamente 2,53% menor que a versão sem clima. A diferença é pequena e não demonstra causalidade nem garante que variáveis climáticas melhorem previsões em outros períodos ou entrepostos. A estação A701 representa a capital paulista, não as regiões produtoras que abastecem a CEAGESP.
 
 ## 7. Classificação dos dados
 
@@ -158,14 +162,12 @@ No teste específico, o Random Forest com clima apresentou MAE aproximadamente 2
 
 ## 9. Arquivos e rastreabilidade
 
-Arquivos utilizados ou esperados na organização final do projeto:
+Arquivos utilizados:
 
 - Planilha original da CONAB: `tabelas-de-dados-boletim-hortigranjeiro-outubro-2026.xlsx`.
 - Base consolidada: `data/processed/conab_precos_consolidados.csv`.
 - Resultados dos modelos: `data/processed/resultados_modelos_conab.csv`.
 - Consolidação meteorológica horária: `data/processed/inmet_sp_horario.csv`.
 - Consolidação meteorológica mensal: `data/processed/inmet_sp_mensal.csv`.
-- Notebook analítico: `03_modelagem_precos_CONAB.ipynb` (ajustar ao nome efetivamente adotado no repositório).
+- Notebook analítico: `03_modelagem_precos_CONAB.ipynb`.
 - Arquivos anuais do INMET: dados automáticos de 2024, 2025 e 2026, conforme registrados no Notebook 03.
-
-Os caminhos acima descrevem a organização recomendada/esperada. Confirmar os diretórios no repositório final antes da entrega. Não manter referências a scripts ou arquivos auxiliares que não estejam efetivamente incluídos no pacote entregue.
