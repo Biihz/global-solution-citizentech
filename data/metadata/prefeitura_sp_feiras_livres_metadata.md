@@ -32,7 +32,7 @@ Uma linha que não foi reconhecida automaticamente foi recuperada por revisão m
 
 ### `prefeitura_sp_feiras_livres_revisar.csv`
 
-Arquivo auxiliar de linhas que exigiram conferência durante a extração. Deve ser mantido somente se o repositório final utilizar esse artefato como registro de auditoria.
+Arquivo auxiliar de auditoria contendo as linhas que exigiram conferência manual durante a extração.
 
 ### `prefeitura_sp_feiras_livres_normalizado.csv`
 
@@ -83,20 +83,18 @@ A auditoria textual identificou:
 
 As alterações foram aplicadas somente na base normalizada, preservando a extração original. A validação posterior confirmou 933 registros, nove colunas e duas correções aplicadas.
 
-Scripts associados, conforme os nomes registrados no projeto:
+Scripts associados no pipeline de extração, normalização e validação:
 - `extrair_feiras_prefeitura.py`;
 - `validar_feiras_prefeitura.py`;
 - `normalizar_feiras_prefeitura.py`;
 - `validar_feiras_normalizadas.py`.
-
-Confirmar a presença e os caminhos desses scripts no repositório final antes de citá-los como parte do pacote entregue.
 
 ## 8. Limitações
 
 - O cadastro é administrativo, não uma pesquisa de campo sobre o funcionamento efetivo de cada feira.
 - A quantidade de feirantes não equivale necessariamente à quantidade de barracas em funcionamento em uma data específica.
 - Os dados não medem vendas, estoque, sobras ou geração de resíduos alimentares.
-- A data de referência original do cadastro precisa ser confirmada na fonte.
+- O documento público da Prefeitura não explicita a data exata de última atualização cadastral, registrando-se apenas a data de consulta e extração (09/11/2026).
 - A extração automatizada foi validada estruturalmente, mas ainda pode conter erros de transcrição ou interpretação.
 - Os 933 registros não devem ser tratados automaticamente como 933 feiras únicas e ativas.
 
