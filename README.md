@@ -79,7 +79,7 @@ A divisão é temporal: treinamento até junho de 2026 e teste final de julho a 
 
 No teste nacional (`n = 299`), Ridge obteve MAE de **0,7458 R$/kg**, RMSE de **1,0600 R$/kg**, MAPE de **17,65%** e R² de **0,7406**. O resultado é uma avaliação do período reservado, não uma garantia de desempenho futuro.
 
-O experimento complementar considera somente a CEAGESP-SP e a estação INMET A701 (Mirante de Santana). No teste (`n = 30`), Random Forest com clima obteve MAE de **0,6413 R$/kg**, RMSE de **0,8579 R$/kg**, MAPE de **16,18%** e R² de **0,6591**. A diferença frente ao Random Forest sem clima foi pequena; não deve ser interpretada como evidência causal nem generalizada para outras CEASAs.
+O experimento complementar considera somente a CEAGESP-SP e a estação INMET A701 (Mirante de Santana). No teste (`n = 30`), Random Forest com clima obteve MAE de **0,6412 R$/kg**, RMSE de **0,8579 R$/kg**, MAPE de **16,17%** e R² de **0,6591**. A diferença frente ao Random Forest sem clima foi pequena; não deve ser interpretada como evidência causal nem generalizada para outras CEASAs.
 
 > [!IMPORTANT]
 > As métricas são resultados dos recortes e períodos avaliados. A série contém 25 referências mensais, pouco mais de dois ciclos anuais, e o teste climático possui apenas três meses por produto. A interpretação deve considerar essas limitações.
