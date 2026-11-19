@@ -12,6 +12,8 @@ A **NutriRota** é uma proposta de plataforma para aproximar feirantes, pequenos
 
 A prova de conceito reúne três frentes analíticas com fontes e unidades distintas: (1) caracterização dos resíduos observados em quatro feiras estudadas por Brancoli et al. (2022); (2) análise territorial do cadastro municipal de feiras livres de São Paulo; e (3) análise e modelagem de preços atacadistas da CONAB, com experimento climático complementar usando dados do INMET para a CEAGESP-SP.
 
+
+> [!IMPORTANT]
 > **Escopo real da prova de conceito:** os modelos supervisionados efetivamente treinados estimam **preços médios mensais (R$/kg)**. Eles **não** foram treinados para prever quilogramas de excedente ou desperdício. Os indicadores de Brancoli são derivados das tabelas publicadas e limitados às quatro feiras estudadas; não constituem uma estimativa municipal nem uma previsão operacional de excedentes.
 
 * **Aplicação interativa:** [nutrirota.streamlit.app](https://nutrirota.streamlit.app)
@@ -79,6 +81,7 @@ No teste nacional (`n = 299`), Ridge obteve MAE de **0,7458 R$/kg**, RMSE de **1
 
 O experimento complementar considera somente a CEAGESP-SP e a estação INMET A701 (Mirante de Santana). No teste (`n = 30`), Random Forest com clima obteve MAE de **0,6413 R$/kg**, RMSE de **0,8579 R$/kg**, MAPE de **16,18%** e R² de **0,6591**. A diferença frente ao Random Forest sem clima foi pequena; não deve ser interpretada como evidência causal nem generalizada para outras CEASAs.
 
+> [!IMPORTANT]
 > As métricas são resultados dos recortes e períodos avaliados. A série contém 25 referências mensais, pouco mais de dois ciclos anuais, e o teste climático possui apenas três meses por produto. A interpretação deve considerar essas limitações.
 
 ## 6. Dashboard Streamlit
@@ -89,7 +92,8 @@ O protótipo de visualização está organizado em `app/` e contém:
 - **Inteligência de Preços:** histórico CONAB e métricas exportadas pelo Notebook 03;
 - **Insights Estratégicos:** síntese das evidências e limitações.
 
-O dashboard apresenta resultados analíticos e não implementa, nesta prova de conceito, o fluxo operacional de cadastro de doadores, oferta, aceite, coleta ou confirmação de doações.
+> [!IMPORTANT]
+> O dashboard apresenta resultados analíticos e não implementa, nesta prova de conceito, o fluxo operacional de cadastro de doadores, oferta, aceite, coleta ou confirmação de doações.
 
 Para iniciar o dashboard a partir da raiz do projeto:
 
@@ -118,7 +122,8 @@ streamlit run app/nutrirota.py
 - Motor de compatibilidade logística, aceite de ofertas e rastreabilidade de coletas.
 - Operação de doações, avaliação sanitária e indicadores de impacto em ambiente real.
 
-Essas funcionalidades compõem a visão futura da plataforma, não resultados implementados pelos notebooks ou pelo dashboard atual.
+> [!IMPORTANT]
+> Essas funcionalidades compõem a visão futura da plataforma, não resultados implementados pelos notebooks ou pelo dashboard atual.
 
 ## 8. Limitações e uso responsável
 
@@ -163,7 +168,8 @@ NutriRota/
 5. Execute os notebooks na ordem 01, 02 e 03, a partir da pasta `notebooks/`, conferindo os caminhos relativos e as fontes necessárias.
 6. Execute o dashboard a partir da raiz com `streamlit run app/nutrirota.py`.
 
-O Notebook 03 aceita os arquivos anuais do INMET nomeados como `INMET2024.zip`, `INMET2025.zip` e `INMET2026.zip`, desde que estejam em `data/raw/`.
+> [!IMPORTANT]
+> O Notebook 03 aceita os arquivos anuais do INMET nomeados como `INMET2024.zip`, `INMET2025.zip` e `INMET2026.zip`, desde que estejam em `data/raw/`.
 
 ## 11. Referências principais
 
