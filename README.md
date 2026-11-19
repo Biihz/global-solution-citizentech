@@ -14,6 +14,9 @@ A prova de conceito reúne três frentes analíticas com fontes e unidades disti
 
 > **Escopo real da prova de conceito:** os modelos supervisionados efetivamente treinados estimam **preços médios mensais (R$/kg)**. Eles **não** foram treinados para prever quilogramas de excedente ou desperdício. Os indicadores de Brancoli são derivados das tabelas publicadas e limitados às quatro feiras estudadas; não constituem uma estimativa municipal nem uma previsão operacional de excedentes.
 
+* **Aplicação interativa:** [nutrirota.streamlit.app](https://nutrirota.streamlit.app)
+* **Código-fonte:** [github.com/Biihz/global-solution-citizentech](https://github.com/Biihz/global-solution-citizentech)
+
 ## 2. Problema e motivação
 
 A identificação tardia de alimentos que deixam de ter valor comercial, somada à comunicação fragmentada entre doadores e organizações sociais, pode dificultar o aproveitamento de produtos ainda próprios para consumo. A coordenação também depende de quantidade, prazo, localização, transporte, armazenamento e capacidade de recebimento.
