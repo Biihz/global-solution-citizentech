@@ -107,7 +107,8 @@ No conjunto de quatro feiras, essa operação resulta em aproximadamente:
 - embalagens derivadas: 597,82 kg;
 - desperdício inevitável derivado: 1.885,29 kg.
 
-Esses valores são **cálculos derivados das tabelas transcritas**, não novas pesagens. A proporção de desperdício evitável de aproximadamente 35,04% utiliza como denominador o volume derivado total sem a classificação de resíduos externos. Não se deve interpretar esse percentual como proporção de alimentos seguros para doação.
+> [!IMPORTANT]
+> Esses valores são **cálculos derivados das tabelas transcritas**, não novas pesagens. A proporção de desperdício evitável de aproximadamente 35,04% utiliza como denominador o volume derivado total sem a classificação de resíduos externos. Não se deve interpretar esse percentual como proporção de alimentos seguros para doação.
 
 A soma dos valores derivados pode diferir ligeiramente da massa total publicada na Tabela 2 devido a arredondamentos e ao escopo das categorias.
 
