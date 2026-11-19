@@ -1,0 +1,105 @@
+﻿market_id,name,weekday,district,idh,number_of_stalls,category_level_I,category_level_II,kg_per_stall,classification,source_table,source_page,nome_feira_municipal,dia_feira_municipal,subprefeitura,bairro_municipal,tipo_logradouro,logradouro,status_correspondencia
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Packaging,Packaging,2.0,packaging,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Packaging,Packaging,3.07,packaging,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Packaging,Packaging,3.4,packaging,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Packaging,Packaging,5.89,packaging,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Leaves flowers and stems,Broccoli and cauliflower,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Leaves flowers and stems,Broccoli and cauliflower,0.0,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Leaves flowers and stems,Broccoli and cauliflower,0.03,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Leaves flowers and stems,Broccoli and cauliflower,0.17,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Leaves flowers and stems,Cabbage,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Leaves flowers and stems,Cabbage,0.01,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Leaves flowers and stems,Cabbage,0.0,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Leaves flowers and stems,Cabbage,0.0,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Leaves flowers and stems,Other,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Leaves flowers and stems,Other,1.17,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Leaves flowers and stems,Other,6.8,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Leaves flowers and stems,Other,7.55,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Processed products,Tubers bulbs and roots,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Processed products,Tubers bulbs and roots,0.0,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Processed products,Tubers bulbs and roots,0.01,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Processed products,Tubers bulbs and roots,0.0,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Processed products,Fruits and vegetables,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Processed products,Fruits and vegetables,0.0,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Processed products,Fruits and vegetables,0.0,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Processed products,Fruits and vegetables,0.0,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Processed products,Leaves flowers and stems,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Processed products,Leaves flowers and stems,0.0,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Processed products,Leaves flowers and stems,0.0,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Processed products,Leaves flowers and stems,0.0,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Tubers bulbs and roots,Potato,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Tubers bulbs and roots,Potato,0.02,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Tubers bulbs and roots,Potato,0.02,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Tubers bulbs and roots,Potato,0.36,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Tubers bulbs and roots,Carrot,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Tubers bulbs and roots,Carrot,0.0,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Tubers bulbs and roots,Carrot,0.02,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Tubers bulbs and roots,Carrot,0.07,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Tubers bulbs and roots,Onion,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Tubers bulbs and roots,Onion,0.0,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Tubers bulbs and roots,Onion,0.04,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Tubers bulbs and roots,Onion,0.26,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Tubers bulbs and roots,Other,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Tubers bulbs and roots,Other,0.0,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Tubers bulbs and roots,Other,0.0,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Tubers bulbs and roots,Other,0.16,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Vegetables,Tomato,0.11,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Vegetables,Tomato,0.05,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Vegetables,Tomato,0.24,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Vegetables,Tomato,1.22,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Vegetables,Pumpkin,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Vegetables,Pumpkin,0.03,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Vegetables,Pumpkin,0.0,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Vegetables,Pumpkin,0.02,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Vegetables,Bell pepper,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Vegetables,Bell pepper,0.0,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Vegetables,Bell pepper,0.0,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Vegetables,Bell pepper,0.0,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Vegetables,Chayote,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Vegetables,Chayote,0.0,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Vegetables,Chayote,0.0,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Vegetables,Chayote,0.0,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Vegetables,Other,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Vegetables,Other,0.33,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Vegetables,Other,0.1,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Vegetables,Other,0.29,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Fruits,Banana,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Fruits,Banana,0.01,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Fruits,Banana,0.4,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Fruits,Banana,0.22,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Fruits,Orange,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Fruits,Orange,0.19,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Fruits,Orange,0.24,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Fruits,Orange,0.53,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Fruits,Watermelon,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Fruits,Watermelon,0.01,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Fruits,Watermelon,0.22,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Fruits,Watermelon,0.0,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Fruits,Papaya,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Fruits,Papaya,0.03,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Fruits,Papaya,0.09,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Fruits,Papaya,0.07,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Fruits,Other,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Fruits,Other,0.11,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Fruits,Other,0.58,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Fruits,Other,2.89,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Unavoidable food waste,Coconut,6.26,unavoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Unavoidable food waste,Coconut,9.02,unavoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Unavoidable food waste,Coconut,4.59,unavoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Unavoidable food waste,Coconut,4.3,unavoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Unavoidable food waste,Sugarcane bagasse,8.44,unavoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Unavoidable food waste,Sugarcane bagasse,1.4,unavoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Unavoidable food waste,Sugarcane bagasse,1.66,unavoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Unavoidable food waste,Sugarcane bagasse,3.27,unavoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Unavoidable food waste,Peels,0.19,unavoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Unavoidable food waste,Peels,1.45,unavoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Unavoidable food waste,Peels,3.32,unavoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Unavoidable food waste,Peels,7.21,unavoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,Meat,Meat,0.0,avoidable_food_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,Meat,Meat,3.41,avoidable_food_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,Meat,Meat,1.35,avoidable_food_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,Meat,Meat,0.07,avoidable_food_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,External waste,External waste,1.56,external_waste,Table 3,8,PARQUE DA MOOCA,TER,MOOCA,PQ DA MOOCA,RUA,CONDE PRATES,exploratoria_consistente
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,External waste,External waste,0.57,external_waste,Table 3,8,SUMARE MODERNA,TER,SE,PACAEMBU,PC,CHARLES MULLER,exploratoria_consistente
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,External waste,External waste,2.74,external_waste,Table 3,8,BATURITE,QUA,SE,ACLIMACAO,RUA,OLIVEIRA PEIXOTO,exploratoria_consistente
+SM4,Belém,quinta-feira,Belenzinho,0.79,39,External waste,External waste,3.49,external_waste,Table 3,8,BELEM,QUI,MOOCA,BELENZINHO,RUA,IRMA CAROLINA,exploratoria_consistente

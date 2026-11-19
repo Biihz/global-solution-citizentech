@@ -1,0 +1,5 @@
+﻿market_id;nome_estudo;dia_estudo;bairro_estudo;nome_feira_municipal;dia_feira_municipal;subprefeitura;bairro_municipal;tipo_logradouro;logradouro;status_correspondencia
+SM1;Parque da Mooca;terça-feira;Parque da Mooca;PARQUE DA MOOCA;TER;MOOCA;PQ DA MOOCA;RUA;CONDE PRATES;exploratoria_consistente
+SM2;Sumaré Moderna;terça-feira;Pacaembú;SUMARE MODERNA;TER;SE;PACAEMBU;PC;CHARLES MULLER;exploratoria_consistente
+SM3;Baturité;quarta-feira;Aclimação;BATURITE;QUA;SE;ACLIMACAO;RUA;OLIVEIRA PEIXOTO;exploratoria_consistente
+SM4;Belém;quinta-feira;Belenzinho;BELEM;QUI;MOOCA;BELENZINHO;RUA;IRMA CAROLINA;exploratoria_consistente

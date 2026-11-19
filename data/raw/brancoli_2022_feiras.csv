@@ -1,0 +1,6 @@
+market_id,name,weekday,district,idh,number_of_stalls,total_waste_kg
+
+SM1,Parque da Mooca,terça-feira,Parque da Mooca,0.819,4,74.2
+SM2,Sumaré Moderna,terça-feira,Pacaembú,0.868,73,1523.7
+SM3,Baturité,quarta-feira,Aclimação,0.823,40,1033.9
+SM4,Belém,quinta-feira,Belenzinho,0.790,39,1483.5

@@ -1,0 +1,2384 @@
+﻿coluna;valor;frequencia;possivel_anomalia
+subprefeitura;PENHA;54;False
+subprefeitura;VILA PRUDENTE / SAPOPEMBA;50;False
+subprefeitura;IPIRANGA;48;False
+subprefeitura;MOOCA;48;False
+subprefeitura;ITAQUERA;43;False
+subprefeitura;PIRITUBA / JARAGUA;43;False
+subprefeitura;SE;38;False
+subprefeitura;SAO MATEUS;38;False
+subprefeitura;VILA MARIANA;38;False
+subprefeitura;BUTANTA;35;False
+subprefeitura;CAPELA DO SOCORRO;35;False
+subprefeitura;CAMPO LIMPO;33;False
+subprefeitura;SANTANA / TUCURUVI;33;False
+subprefeitura;SAO MIGUEL;32;False
+subprefeitura;LAPA;31;False
+subprefeitura;ARICANDUVA I FORMOSA I CARRAO;30;False
+subprefeitura;CASA VERDE / CACHOEIRINHA;29;False
+subprefeitura;ITAIM PAULISTA;29;False
+subprefeitura;V MARIA / VILA GUILHERME;29;False
+subprefeitura;SANTO AMARO;28;False
+subprefeitura;PINHEIROS;27;False
+subprefeitura;FREGUESIA / BRASILANDIA;26;False
+subprefeitura;M BOI MIRIM;21;False
+subprefeitura;CIDADE ADEMAR;19;False
+subprefeitura;GUAIANASES;19;False
+subprefeitura;ERMELINO MATARAZZO;17;False
+subprefeitura;JACANA / TREMENBE;15;False
+subprefeitura;CIDADE TIRADENTES;14;False
+subprefeitura;JABAQUARA;13;False
+subprefeitura;PERUS;10;False
+subprefeitura;PARELHEIROS;8;False
+dia_feira;DOM;196;False
+dia_feira;QUA;157;False
+dia_feira;QUI;135;False
+dia_feira;SEX;134;False
+dia_feira;TER;128;False
+dia_feira;SÁB;110;False
+dia_feira;SAB;72;False
+dia_feira;QUA NOTURNA;1;False
+categoria;TRADICIONAL;903;False
+categoria;NOTURNA;20;False
+categoria;ÔRGANICA;8;False
+categoria;ORGÂNICA;2;False
+nome_feira;JARDIM SAO PAULO;5;False
+nome_feira;VILA RICA;3;False
+nome_feira;SAPOPEMBA;3;False
+nome_feira;CHORA MENINO;3;False
+nome_feira;IPIRANGA;3;False
+nome_feira;ITAQUERA;3;False
+nome_feira;VILA GUARANI;3;False
+nome_feira;SANTANA;3;False
+nome_feira;SANTO AMARO;3;False
+nome_feira;SUMARE MODERNA;3;False
+nome_feira;ACLIMACAO;3;False
+nome_feira;VILA MEDEIROS;3;False
+nome_feira;VILA MARIA;3;False
+nome_feira;PARQUE SAO LUCAS;3;False
+nome_feira;VILA FORMOSA;2;False
+nome_feira;VILA CARRAO;2;False
+nome_feira;VILA SANTA IZABEL;2;False
+nome_feira;JARDIM SAO LUIZ;2;False
+nome_feira;CAXINGUI;2;False
+nome_feira;CAMPO LIMPO;2;False
+nome_feira;PARQUE FERNANDA;2;False
+nome_feira;JARDIM ROSANA;2;False
+nome_feira;CAPAO REDONDO;2;False
+nome_feira;CIDADE DUTRA;2;False
+nome_feira;SAO JOSE;2;False
+nome_feira;CACHOEIRINHA;2;False
+nome_feira;FREGUESIA DO O;2;False
+nome_feira;JARDIM DAS LARANJEIRAS;2;False
+nome_feira;PARQUE SOUZA ARANHA;2;False
+nome_feira;JARDIM MIRIAM;2;False
+nome_feira;VILA CONSTANCIA;2;False
+nome_feira;CIDADE ADEMAR;2;False
+nome_feira;BURGO PAULISTA;2;False
+nome_feira;GUAIANAZES;2;False
+nome_feira;VILA PRINCESA ISABEL;2;False
+nome_feira;CIDADE TIRADENTES;2;False
+nome_feira;PARQUE BRISTOL;2;False
+nome_feira;SACOMA;2;False
+nome_feira;JARDIM ROBRU;2;False
+nome_feira;PARQUE SANTA RITA;2;False
+nome_feira;VILA NOVA CURUCA;2;False
+nome_feira;KEMEL ADDAS;2;False
+nome_feira;VILA ITAIM;2;False
+nome_feira;JARDIM ITAPEMIRIM;2;False
+nome_feira;CIDADE LIDER;2;False
+nome_feira;VILA CARMOSINA;2;False
+nome_feira;SANTA CATARINA;2;False
+nome_feira;JABAQUARA;2;False
+nome_feira;VILA ALBERTINA;2;False
+nome_feira;JARDIM TREMEMBE;2;False
+nome_feira;TREMEMBE;2;False
+nome_feira;VILA MAZZEI;2;False
+nome_feira;VILA JAGUARA;2;False
+nome_feira;DONA ANA GERMAINE;2;False
+nome_feira;ALTO DE VILA POMPEIA;2;False
+nome_feira;CONCORDIA;2;False
+nome_feira;MOOCA MODERNA;2;False
+nome_feira;MAE DO CEU;2;False
+nome_feira;VILA DIVA;2;False
+nome_feira;VILA EMA;2;False
+nome_feira;PRACA AGENTE CICERO;2;False
+nome_feira;MOOCA;2;False
+nome_feira;VILA PRUDENTE;2;False
+nome_feira;PENHA;2;False
+nome_feira;MARIA CARLOTA;2;False
+nome_feira;GUAIAUNA;2;False
+nome_feira;VILA GUILHERMINA;2;False
+nome_feira;VILA NHOCUNE;2;False
+nome_feira;CIDADE MONCOES;2;False
+nome_feira;BROOKLIN PAULISTA;2;False
+nome_feira;JARDIM SAO JOSE;2;False
+nome_feira;VILA AURORA;2;False
+nome_feira;PIRITUBA;2;False
+nome_feira;PRETA;2;False
+nome_feira;PRACA VISTA ALEGRE;2;False
+nome_feira;PERUS;2;False
+nome_feira;MANDAQUI;2;False
+nome_feira;PIRAQUARA;2;False
+nome_feira;PRACA FLORIANO PEIXOTO;2;False
+nome_feira;VILA JACUI;2;False
+nome_feira;VILA HELENA;2;False
+nome_feira;JARDIM VERA CRUZ;2;False
+nome_feira;PAMPLONA;2;False
+nome_feira;CAMBUCI;2;False
+nome_feira;SAO MATEUS;2;False
+nome_feira;JARDIM SANTO ANDRE;2;False
+nome_feira;JARDIM SANTA ADELIA;2;False
+nome_feira;INDIANOPOLIS;2;False
+nome_feira;PRACA DA ARVORE;2;False
+nome_feira;VILA GUILHERME;2;False
+nome_feira;COHAB SAPOPEMBA I;2;False
+nome_feira;FAZENDA DA JUTA;2;False
+nome_feira;FEIRA LIVRE DE ORGANICOS CERET;1;False
+nome_feira;SANTA GERTRUDES;1;False
+nome_feira;PARQUE MARIA LUIZA;1;False
+nome_feira;VILA NOVA YORK;1;False
+nome_feira;TIUBA;1;False
+nome_feira;VILA NOVA MANCHESTER;1;False
+nome_feira;ALFERES FRAZAO;1;False
+nome_feira;VILA ANTONIETA;1;False
+nome_feira;JARDIM RECORD;1;False
+nome_feira;PRACA ALBINO FCO DE FIGUEIREDO;1;False
+nome_feira;DEDO DE DEUS;1;False
+nome_feira;CERET;1;False
+nome_feira;JARDIM ARICANDUVA;1;False
+nome_feira;JARDIM IVA;1;False
+nome_feira;VILA MANCHESTER;1;False
+nome_feira;SANTO ESTEVAO;1;False
+nome_feira;VILA ARICANDUVA;1;False
+nome_feira;PRACA MANOEL ARIZA;1;False
+nome_feira;JARDIM VILA FORMOSA;1;False
+nome_feira;VILA CRUZEIRO;1;False
+nome_feira;COHAB BARREIRA GRANDE;1;False
+nome_feira;AGUIAR DA BEIRA;1;False
+nome_feira;JARDIM ANGELA;1;False
+nome_feira;JARDIM CRIS;1;False
+nome_feira;JARDIM RANIERI;1;False
+nome_feira;CORREGO DOS FREITAS;1;False
+nome_feira;JARDIM DAS FLORES;1;False
+nome_feira;PIRAPORINHA;1;False
+nome_feira;JARDIM IBIRAPUERA;1;False
+nome_feira;ALTO DA RIVIEIRA;1;False
+nome_feira;PARQUE NOVO SANTO AMARO;1;False
+nome_feira;JARDIM VAZ DE LIMA;1;False
+nome_feira;PARQUE FIGUEIRA GRANDE;1;False
+nome_feira;VILA REMO;1;False
+nome_feira;ESTRADA DA MOENDA VELHA;1;False
+nome_feira;VILA SANTA LUCIA;1;False
+nome_feira;JARDIM VERGUEIRO;1;False
+nome_feira;VILA DAS BELEZAS;1;False
+nome_feira;JARDIM IMBE;1;False
+nome_feira;CDHU JARDIM SAO LUIZ-A;1;False
+nome_feira;SAO LUIS;1;False
+nome_feira;PARELHEIROS;1;False
+nome_feira;VILA VARGEM GRANDE II;1;False
+nome_feira;JARDIM IPORA;1;False
+nome_feira;JARDIM DOS ALAMOS;1;False
+nome_feira;RECANTO CAMPO BELO;1;False
+nome_feira;BARRO BRANCO;1;False
+nome_feira;VILA VARGEM GRANDE I;1;False
+nome_feira;BALNEARIO SAO JOSE;1;False
+nome_feira;VILA MORSE;1;False
+nome_feira;SAO DOMINGOS;1;False
+nome_feira;JARDIM ARPOADOR;1;False
+nome_feira;REAL PARQUE;1;False
+nome_feira;CONJ RESIDENCIAL DO BUTANTA;1;False
+nome_feira;RAPOSO TAVARES;1;False
+nome_feira;VILA REGINA;1;False
+nome_feira;COHAB RAPOSO TAVARES;1;False
+nome_feira;JARDIM BONFIGLIOLI;1;False
+nome_feira;JARDIM PERI PERI;1;False
+nome_feira;JARDIM JOAO XXIII;1;False
+nome_feira;BIBI;1;False
+nome_feira;VILA INDIANA;1;False
+nome_feira;VILA DALVA;1;False
+nome_feira;JARDIM CELESTE;1;False
+nome_feira;JARDIM COLOMBO;1;False
+nome_feira;BUTANTA;1;False
+nome_feira;CARAMURU;1;False
+nome_feira;JARDIM SAO JORGE;1;False
+nome_feira;JARDIM GUARAU;1;False
+nome_feira;FEIRAO DA ECONOMIA REAL PARQUE;1;False
+nome_feira;VILA SONIA;1;False
+nome_feira;RIO PEQUENO;1;False
+nome_feira;VILA BORGES;1;False
+nome_feira;VILA GOMES;1;False
+nome_feira;PORTAL DO MORUMBI;1;False
+nome_feira;JARDIM PINHEIROS;1;False
+nome_feira;MARIO MOURA ANDRADE;1;False
+nome_feira;AURIFLAMA;1;False
+nome_feira;VILA BUTANTA;1;False
+nome_feira;JARDIM ANTONIA;1;False
+nome_feira;JARDIM RAPOSO TAVARES;1;False
+nome_feira;JARDIM ADALGIZA;1;False
+nome_feira;PARQUE ARARIBA;1;False
+nome_feira;JARDIM DAS ROSAS;1;False
+nome_feira;JARDIM DO COLEGIO;1;False
+nome_feira;COHAB ADVENTISTA II;1;False
+nome_feira;ANTONIO DA COSTA BARBOSA;1;False
+nome_feira;JARDIM SANTO ANTONIO;1;False
+nome_feira;CIDADE DE RIO PARDO;1;False
+nome_feira;JARDIM JANGADEIRO;1;False
+nome_feira;VILA PRELL;1;False
+nome_feira;JARDIM MACEDONIA;1;False
+nome_feira;FORTE WILLIAM;1;False
+nome_feira;JARDIM CATANDUVA;1;False
+nome_feira;CIDADE DO RIO PARDO;1;False
+nome_feira;LUISA TODI;1;False
+nome_feira;FREI ANIBAL;1;False
+nome_feira;JARDIM UMARIZAL;1;False
+nome_feira;JARDIM IPE;1;False
+nome_feira;JARDIM MARIA SAMPAIO;1;False
+nome_feira;PARAIZOPOLIS;1;False
+nome_feira;JARDIM UMUARAMA;1;False
+nome_feira;FEIRA LIVRE HORTO DO YPE;1;False
+nome_feira;COLANTONIO;1;False
+nome_feira;JARDIM OLINDA;1;False
+nome_feira;BURLE MARX;1;False
+nome_feira;ANATOLE DE BAUDOT;1;False
+nome_feira;PARQUE GRAJAU;1;False
+nome_feira;JARDIM IPORANGA;1;False
+nome_feira;JARDIM SUZANO;1;False
+nome_feira;JARDIM TRES CORACOES;1;False
+nome_feira;AV DAS JABOTICABEIRAS;1;False
+nome_feira;COCAIA;1;False
+nome_feira;PQUE AMERICA;1;False
+nome_feira;VILA DA PAZ;1;False
+nome_feira;JD. NOVO HORIZONTE;1;False
+nome_feira;JARDIM VARGINHA;1;False
+nome_feira;JARDIM EDA;1;False
+nome_feira;VELEIROS;1;False
+nome_feira;JARDIM ELIANA;1;False
+nome_feira;VILA SAO BENEDITO;1;False
+nome_feira;BANDEIRANTES;1;False
+nome_feira;VILA NOVA FRIBURGO;1;False
+nome_feira;RIO PRETO;1;False
+nome_feira;JARDIM S FRANCISCA;1;False
+nome_feira;PQUE RESIDENCIAL COCAIA I;1;False
+nome_feira;JARDIM MIRNA;1;False
+nome_feira;PARQUE SAO PAULO;1;False
+nome_feira;SOCORRO;1;False
+nome_feira;JARDIM DAS IMBUIAS;1;False
+nome_feira;JARDIM PRIMAVERA;1;False
+nome_feira;VILA FRIBURGO;1;False
+nome_feira;CONJ.RES.BRIG.FARIA LIMA;1;False
+nome_feira;JARDIM PETRONITA;1;False
+nome_feira;PARQUE DAS ARVORES;1;False
+nome_feira;PQ RES. COCAIA INDEPENDENTE;1;False
+nome_feira;JARDIM SATELITE;1;False
+nome_feira;JARDIM ALMEIDA PRADO;1;False
+nome_feira;VILA NATAL;1;False
+nome_feira;PARQUE PERUCHE;1;False
+nome_feira;CANAA;1;False
+nome_feira;VILA NOVA CACHOEIRINHA;1;False
+nome_feira;VILA PRADO;1;False
+nome_feira;JARDIM PERI ALTO;1;False
+nome_feira;FEIRA CEL EUCLIDES MACHADO;1;False
+nome_feira;LIMAO;1;False
+nome_feira;JARDIM CARDAMONE;1;False
+nome_feira;SANTA MARIA;1;False
+nome_feira;MARAMBAIA;1;False
+nome_feira;JARDIM SANTA CRUZ;1;False
+nome_feira;VILA ESPANHOLA;1;False
+nome_feira;VILA CAROLINA;1;False
+nome_feira;VILA CONTINENTAL;1;False
+nome_feira;BAIRRO DO LIMAO;1;False
+nome_feira;ROSA DOS VENTOS;1;False
+nome_feira;GALO DE OURO;1;False
+nome_feira;CASA VERDE;1;False
+nome_feira;CARMEM;1;False
+nome_feira;MANDIBA;1;False
+nome_feira;DEPUTADO EMILIO CARLOS;1;False
+nome_feira;VILA SIQUEIRA;1;False
+nome_feira;CASA PALMA;1;False
+nome_feira;MAR PAULISTA;1;False
+nome_feira;VILA JOANISA;1;False
+nome_feira;VILA MISSIONARIA;1;False
+nome_feira;JARDIM VILA LUCIA;1;False
+nome_feira;JARDIM PRUDENCIA;1;False
+nome_feira;JARDIM UBIRAJARA;1;False
+nome_feira;PEDREIRA;1;False
+nome_feira;VILA FILOMENA;1;False
+nome_feira;REFUGIO SANTA TEREZINHA;1;False
+nome_feira;JARDIM NITEROI;1;False
+nome_feira;JARDIM MARAJOARA;1;False
+nome_feira;JARDIM VILAS BOAS;1;False
+nome_feira;ERMELINO MATARAZZO;1;False
+nome_feira;VILA RIO BRANCO;1;False
+nome_feira;SANTOS DUMONT;1;False
+nome_feira;VILA BUENOS AIRES;1;False
+nome_feira;BRASILIA;1;False
+nome_feira;PONTE RAZA;1;False
+nome_feira;COMENDADOR ERMELINO MATARAZZ;1;False
+nome_feira;JARDIM POPULAR;1;False
+nome_feira;AZEVEDO;1;False
+nome_feira;VILA PRIMA;1;False
+nome_feira;PARQUE BOTURUSSU;1;False
+nome_feira;BENEDITO RAMOS;1;False
+nome_feira;JARDIM VERONIA;1;False
+nome_feira;VILA PONTE RASA;1;False
+nome_feira;JARDIM PENHA;1;False
+nome_feira;VILA DAS PALMEIRAS;1;False
+nome_feira;CRUZ DAS ALMAS;1;False
+nome_feira;MARACANA;1;False
+nome_feira;PARQUE BELEM;1;False
+nome_feira;JARDIM PRINCESA;1;False
+nome_feira;JARDIM DO RECANTO;1;False
+nome_feira;VILA BANCARIA;1;False
+nome_feira;GUARIROBA;1;False
+nome_feira;JARDIM VISTA ALEGRE;1;False
+nome_feira;VILA IORIO;1;False
+nome_feira;JARDIM IRACEMA;1;False
+nome_feira;VILA BRASILANDIA;1;False
+nome_feira;VILA NIGRI;1;False
+nome_feira;JARDIM GUARANI;1;False
+nome_feira;SANTA MARINA;1;False
+nome_feira;VILA MIRIAM;1;False
+nome_feira;JARDIM MONJOLO;1;False
+nome_feira;PARQUE TIETE;1;False
+nome_feira;ITABERABA;1;False
+nome_feira;VILA GONCALVES;1;False
+nome_feira;MORRO GRANDE;1;False
+nome_feira;MUNIZ BARRETO;1;False
+nome_feira;JARDIM ANA MARIA;1;False
+nome_feira;JARDIM BRASILIA;1;False
+nome_feira;COHAB-JUSCELINO KUBTSCHECK;1;False
+nome_feira;CDHU CONJUNTO HAB GUAIANASES;1;False
+nome_feira;JARDIM FRANGANIELO;1;False
+nome_feira;VILA IOLANDA;1;False
+nome_feira;JARDIM SOARES;1;False
+nome_feira;RIBEIRAO ITAQUERA;1;False
+nome_feira;JARDIM CELIA;1;False
+nome_feira;VILA SAO GERALDO;1;False
+nome_feira;LAJEADO;1;False
+nome_feira;RODOLFO ALBINO SILVA;1;False
+nome_feira;CONJUNTO JK;1;False
+nome_feira;COHAB CIDADE TIRADENTES;1;False
+nome_feira;COHAB-TIRADENTES I;1;False
+nome_feira;CONJUNTO STA. ETELVINA;1;False
+nome_feira;COHAB SITIO CONCEICAO;1;False
+nome_feira;CONJ HABIT FAZENDA DO CARMO;1;False
+nome_feira;VILA YOLANDA II;1;False
+nome_feira;SANTA ETELVINA;1;False
+nome_feira;CIDADE TIRADENTES SETOR G;1;False
+nome_feira;COHAB-TIRADENTES II;1;False
+nome_feira;CONJ RESID DE GUAIANAZES;1;False
+nome_feira;CASTRO ALVES;1;False
+nome_feira;COHAB SANTA ETELVINA IIA;1;False
+nome_feira;VILA SAO JOSE;1;False
+nome_feira;JARDIM PREVIDENCIA;1;False
+nome_feira;CASTELO BRANCO;1;False
+nome_feira;JARDIM DA SAUDE;1;False
+nome_feira;VILA CRISTALIA;1;False
+nome_feira;VILA INDEPENDENCIA;1;False
+nome_feira;CONJ RES HELIOPOLIS;1;False
+nome_feira;ALTO DO IPIRANGA;1;False
+nome_feira;VILA DAS MERCES;1;False
+nome_feira;AGUA FUNDA;1;False
+nome_feira;PORONGABA;1;False
+nome_feira;SANTA EULALIA;1;False
+nome_feira;VILA ARAPUA;1;False
+nome_feira;FEIRA LIVRE SANTA EMILIA;1;False
+nome_feira;VILA MONUMENTO;1;False
+nome_feira;CERRACAO;1;False
+nome_feira;SAO JOAO CLIMACO;1;False
+nome_feira;SANTA ANGELA;1;False
+nome_feira;SUSSUARAMA;1;False
+nome_feira;VILA VERA;1;False
+nome_feira;JARDIM LEAR;1;False
+nome_feira;FRANCISCO LEMA;1;False
+nome_feira;AURI VERDE;1;False
+nome_feira;JAGUARI;1;False
+nome_feira;MARIA ESTELA;1;False
+nome_feira;SANTA CRUZ;1;False
+nome_feira;TEREZA CRISTINA;1;False
+nome_feira;VILA GUMERCINDO;1;False
+nome_feira;VILA DOS QUARENTA;1;False
+nome_feira;VILA BANDEIRANTES;1;False
+nome_feira;JARDIM PATENTE;1;False
+nome_feira;VILA OLIVIERI;1;False
+nome_feira;VILA MORAES;1;False
+nome_feira;VILA NAIR;1;False
+nome_feira;VILA CARIOCA;1;False
+nome_feira;JARDIM BOTUCATU;1;False
+nome_feira;JARDIM TROPICAL;1;False
+nome_feira;SAO SAVERIO;1;False
+nome_feira;VILA HELIOPOLIS;1;False
+nome_feira;JARDIM MARIA ESTELA;1;False
+nome_feira;SANTO ANTONIO DE CATEGERO;1;False
+nome_feira;JARDIM CAMARGO;1;False
+nome_feira;CAMARGO VELHO;1;False
+nome_feira;JARDIM NAZARE;1;False
+nome_feira;DESEMBARGADOR ISNARD DOS REIS;1;False
+nome_feira;CDHU ITAIM PAULISTA;1;False
+nome_feira;VILA CURUCA;1;False
+nome_feira;VILA ALABAMA;1;False
+nome_feira;JARDIM CAMPOS;1;False
+nome_feira;PROGRESSO;1;False
+nome_feira;JARDIM NAZARE II;1;False
+nome_feira;JARDIM GIANETTI;1;False
+nome_feira;ITAIM;1;False
+nome_feira;JARDIM MILIUNAS;1;False
+nome_feira;JARDIM CAMARGO NOVO;1;False
+nome_feira;FLAMINGO;1;False
+nome_feira;CONJ HABIT PADRE NILDO;1;False
+nome_feira;JARDIM SILVA TELLES;1;False
+nome_feira;JARDIM DAS OLIVEIRAS;1;False
+nome_feira;JARDIM NELIA;1;False
+nome_feira;CONJUNTO CDHU CAMARGO VELHO;1;False
+nome_feira;ANCHIETA;1;False
+nome_feira;PARQUE GUARANI;1;False
+nome_feira;JARDIM NOVA BRASILIA;1;False
+nome_feira;SAVOY CITY;1;False
+nome_feira;COHAB II;1;False
+nome_feira;TERRA BRASILEIRA;1;False
+nome_feira;ITAQUERA II;1;False
+nome_feira;CONJUNTO A E CARVALHO;1;False
+nome_feira;JARDIM NOSSA SENHORA DO CARMO;1;False
+nome_feira;COHAB III;1;False
+nome_feira;JARDIM RUTH;1;False
+nome_feira;RAINHA DA NOITE;1;False
+nome_feira;VERDE;1;False
+nome_feira;JARDIM ARIZI;1;False
+nome_feira;SABADO D'ANGELO;1;False
+nome_feira;VILA BRASIL;1;False
+nome_feira;DOM BOSCO;1;False
+nome_feira;JOSE BONIFACIO;1;False
+nome_feira;VILA CAMPANELA;1;False
+nome_feira;SANTA MARCELINA;1;False
+nome_feira;CARLOS ALBACINI;1;False
+nome_feira;JARDIM SANTA HELENA;1;False
+nome_feira;VILA MATILDE;1;False
+nome_feira;CARMOSINA;1;False
+nome_feira;ZONA LESTE;1;False
+nome_feira;VILA RAMOS;1;False
+nome_feira;JARDIM HELIAN;1;False
+nome_feira;XV DE NOVEMBRO;1;False
+nome_feira;VILA MASTROCOLA;1;False
+nome_feira;CONJ RESIDENCIAL DE ITAQUERA;1;False
+nome_feira;JD.SANTA TEREZINHA;1;False
+nome_feira;PARQUE SAVOY CITY;1;False
+nome_feira;VILA VERDE;1;False
+nome_feira;CONJUNTO HAB FAZENDA DO CARMO;1;False
+nome_feira;ITAQUERA III;1;False
+nome_feira;CIDADE VARGAS;1;False
+nome_feira;NHANDIROBAS;1;False
+nome_feira;VILA FACCHINI;1;False
+nome_feira;VILA CAMPESTRE;1;False
+nome_feira;AMERICANOPOLIS;1;False
+nome_feira;CIDADE LEONOR;1;False
+nome_feira;APACE;1;False
+nome_feira;JACANA;1;False
+nome_feira;FURNAS;1;False
+nome_feira;PENAFORTE;1;False
+nome_feira;CONJUNTO JOVA RURAL;1;False
+nome_feira;VILA NILO;1;False
+nome_feira;CASA DE PEDRA;1;False
+nome_feira;EDU CHAVES;1;False
+nome_feira;JARDIM JOAMAR;1;False
+nome_feira;JARDIM FONTALIS;1;False
+nome_feira;LAPA;1;False
+nome_feira;SANTA EDWIGES;1;False
+nome_feira;CAIOVAS;1;False
+nome_feira;CENTRO INDUSTRIAL DO JAGUARE;1;False
+nome_feira;ALTO DAS PERDIZES;1;False
+nome_feira;VILA ROMANA;1;False
+nome_feira;VILA ANASTACIO;1;False
+nome_feira;JAGUARE;1;False
+nome_feira;VILA PIAUI;1;False
+nome_feira;FEIRA LINDA;1;False
+nome_feira;DRONSFIELD;1;False
+nome_feira;SUMAREZINHO;1;False
+nome_feira;PIO XI;1;False
+nome_feira;VILA HAMBURGUESA;1;False
+nome_feira;FILOMENA MATARAZZO;1;False
+nome_feira;ABRAHAO BEREZIN;1;False
+nome_feira;JOAO RAMALHO;1;False
+nome_feira;AGUA BRANCA;1;False
+nome_feira;ALTO DA LAPA;1;False
+nome_feira;VILA LEOPOLDINA;1;False
+nome_feira;LAGEADO;1;False
+nome_feira;PRACA MELVIM JONES;1;False
+nome_feira;VILA IPOJUCA;1;False
+nome_feira;VILA POMPEIA;1;False
+nome_feira;CENTRAL PARK LAPA;1;False
+nome_feira;TOLEDO BARBOSA;1;False
+nome_feira;PIRASSUNUNGA;1;False
+nome_feira;SILVA TELLES;1;False
+nome_feira;MORAES BARROS;1;False
+nome_feira;PARQUE DA MOOCA;1;False
+nome_feira;FERNANDES FALCAO;1;False
+nome_feira;AGUA RASA;1;False
+nome_feira;TATUAPE;1;False
+nome_feira;MARANHAO;1;False
+nome_feira;CACHOEIRA;1;False
+nome_feira;CANINDE;1;False
+nome_feira;UMUARAMA;1;False
+nome_feira;PRACA DAS ROSAS;1;False
+nome_feira;RODRIGUES BARBOSA;1;False
+nome_feira;PRACA LUZITANIA;1;False
+nome_feira;VILA SAO CARLOS;1;False
+nome_feira;PAULO ANDREGUETTI;1;False
+nome_feira;BELEM;1;False
+nome_feira;TRILHOS;1;False
+nome_feira;VILA BERTIOGA;1;False
+nome_feira;VILA ORATORIO;1;False
+nome_feira;ANTONIO DE BARROS;1;False
+nome_feira;JULIO RIBEIRO;1;False
+nome_feira;PANTOJO;1;False
+nome_feira;MARIA CANDIDA;1;False
+nome_feira;SAO JORGE;1;False
+nome_feira;FEIRA LIVRE ORGANICOS DA MOOCA;1;False
+nome_feira;SAO JOSE DO BELEM;1;False
+nome_feira;PARI;1;False
+nome_feira;VILA LESTE;1;False
+nome_feira;ITAMARACA;1;False
+nome_feira;IRMA CAROLINA;1;False
+nome_feira;VILA INVERNADA;1;False
+nome_feira;CHACARA MARANHAO;1;False
+nome_feira;BRAS MODERNA;1;False
+nome_feira;VILA DALILA;1;False
+nome_feira;ARTUR ALVIM;1;False
+nome_feira;EDIMBURGO;1;False
+nome_feira;VILA SAO LOURENCO;1;False
+nome_feira;VILA SILVIA;1;False
+nome_feira;CEZAR DIAS;1;False
+nome_feira;MIRANDINHA;1;False
+nome_feira;OURO;1;False
+nome_feira;VILA NOVA GRANADA;1;False
+nome_feira;JARDIM TRES MARIAS;1;False
+nome_feira;VILA TALARICO;1;False
+nome_feira;JARDIM COIMBRA;1;False
+nome_feira;JARDIM DANFER;1;False
+nome_feira;CANGAIBA;1;False
+nome_feira;PELAGIO MARQUEZ;1;False
+nome_feira;ENGENHEIRO TRINDADE;1;False
+nome_feira;PRACA ARTUR ALVIM;1;False
+nome_feira;PATROCINIO PAULISTA;1;False
+nome_feira;TIQUATIRA;1;False
+nome_feira;ENGENHEIRO GOULART;1;False
+nome_feira;JARDIM NORDESTE;1;False
+nome_feira;PRINCEZA IZABEL;1;False
+nome_feira;PADRE JOSE DE ANCHIETA;1;False
+nome_feira;RUI BARBOSA;1;False
+nome_feira;NOSSA SENHORA DE FATIMA;1;False
+nome_feira;VILA SINANDUVA;1;False
+nome_feira;JARDIM MARINGA;1;False
+nome_feira;VILA RE;1;False
+nome_feira;VILA CISPER;1;False
+nome_feira;CONJUNTO HABIT VILA SILVIA;1;False
+nome_feira;PRACA DO ROSARIO;1;False
+nome_feira;MORCEGAO;1;False
+nome_feira;PRACA DO CERQUILHO;1;False
+nome_feira;VILA CAREZZI;1;False
+nome_feira;VILA SANTANA;1;False
+nome_feira;JOSE MASCARENHAS;1;False
+nome_feira;CIDADE PATRIARCA;1;False
+nome_feira;CIDADE A E CARVALHO;1;False
+nome_feira;PADRE MANOEL DA NOBREGA;1;False
+nome_feira;IMPERIAL;1;False
+nome_feira;PRACA SANTA QUITERIA;1;False
+nome_feira;JARDIM PIRATININGA;1;False
+nome_feira;CRUBIXA;1;False
+nome_feira;VILA OLIMPIA;1;False
+nome_feira;HEITOR PENTEADO;1;False
+nome_feira;HADDOCK LOBO;1;False
+nome_feira;PADRE CARVALHO;1;False
+nome_feira;BREJO ALEGRE;1;False
+nome_feira;BROOKLIM PAULISTA;1;False
+nome_feira;PINHEIROS;1;False
+nome_feira;CHACARA ITAIM;1;False
+nome_feira;JARDIM DAS BANDEIRAS;1;False
+nome_feira;EPEIRA;1;False
+nome_feira;FERNAO CARDIM;1;False
+nome_feira;LARGO DA BATATA;1;False
+nome_feira;NAPOLEAO MICHEL;1;False
+nome_feira;JARDIM AMERICA;1;False
+nome_feira;CERQUEIRA CEZAR;1;False
+nome_feira;PORTO;1;False
+nome_feira;AMARO CAVALHEIRO;1;False
+nome_feira;VILA IDA;1;False
+nome_feira;JARDIM PAULISTA;1;False
+nome_feira;VILA UBERABINHA;1;False
+nome_feira;DARDANELOS;1;False
+nome_feira;CONCEICAO DE MONTE ALEGRE;1;False
+nome_feira;IGUATEMI;1;False
+nome_feira;VILA MADALENA;1;False
+nome_feira;VILA BONILHA;1;False
+nome_feira;JARDIM SAO JOAO;1;False
+nome_feira;JARDIM JOSE MARIA;1;False
+nome_feira;JARDIM CITY JARAGUA;1;False
+nome_feira;GRAND PLAZA;1;False
+nome_feira;SANTA MONICA;1;False
+nome_feira;PARQUE SAO DOMINGOS;1;False
+nome_feira;PARQUE NACOES UNIDAS;1;False
+nome_feira;PIQUERI;1;False
+nome_feira;CHACARA INGLESA;1;False
+nome_feira;JARDIM REGINA;1;False
+nome_feira;JARDIM PANAMERICANO;1;False
+nome_feira;JARDIM IPANEMA;1;False
+nome_feira;JARDIM CIDADE PIRITUBA;1;False
+nome_feira;TRAV SAO GABRIEL;1;False
+nome_feira;VILA MANGALOT;1;False
+nome_feira;ESTRADA DA PARADA;1;False
+nome_feira;ANHEMBI;1;False
+nome_feira;JARDIM SANTA MONICA;1;False
+nome_feira;GRAND RESERVA II;1;False
+nome_feira;MUTINGA;1;False
+nome_feira;JARAGUA;1;False
+nome_feira;JARDIM RINCAO;1;False
+nome_feira;SERRA DO CACHIMBO;1;False
+nome_feira;PARADA DE TAIPAS;1;False
+nome_feira;JARDIM MARISA;1;False
+nome_feira;VILA MIRANTE;1;False
+nome_feira;JARDIM MONTE ALEGRE;1;False
+nome_feira;JARDIM DA FELICIDADE;1;False
+nome_feira;CIDADE D ABRIL;1;False
+nome_feira;JARDIM MARILU;1;False
+nome_feira;JARDIM N SRA APARECIDA;1;False
+nome_feira;FEIRAO ESPECIAL DE PIRITUBA;1;False
+nome_feira;INTERATIVA;1;False
+nome_feira;VILA NOVA ESPERANCA;1;False
+nome_feira;JARDIM DO RUSSO;1;False
+nome_feira;JARDIM BRITANIA;1;False
+nome_feira;VILA FANTON;1;False
+nome_feira;VILA CAIUBA;1;False
+nome_feira;VILA OPERARIA;1;False
+nome_feira;VILA MALVINA;1;False
+nome_feira;JARDIM JARAGUA;1;False
+nome_feira;RECANTO DOS HUMILDES;1;False
+nome_feira;SANTA TEREZINHA;1;False
+nome_feira;TUCURUVI;1;False
+nome_feira;VILA GUSTAVO;1;False
+nome_feira;AGUA FRIA;1;False
+nome_feira;PARQUE VITORIA;1;False
+nome_feira;ITAICY;1;False
+nome_feira;JARDIM SAO BENTO;1;False
+nome_feira;TANQUE VELHO;1;False
+nome_feira;CONEGO LADEIRA;1;False
+nome_feira;SANTA INES;1;False
+nome_feira;CABUCU;1;False
+nome_feira;JOAO PESSOA;1;False
+nome_feira;PALMAS DO TREMEMBE;1;False
+nome_feira;MANOEL SOVERAL;1;False
+nome_feira;ALTO DO MANDAQUI;1;False
+nome_feira;AREAL;1;False
+nome_feira;AV SAO PAULO;1;False
+nome_feira;IMIRIM;1;False
+nome_feira;BORGES;1;False
+nome_feira;LAUZANE PAULISTA;1;False
+nome_feira;SANTO ANTONIO;1;False
+nome_feira;HERISON;1;False
+nome_feira;CAMPO GRANDE;1;False
+nome_feira;FEIRAO ECON C DE PORTO ALEGRE;1;False
+nome_feira;JOAO DIAS;1;False
+nome_feira;GIL EANES;1;False
+nome_feira;CAMPO BELO;1;False
+nome_feira;CHACARA SANTO ANTONIO;1;False
+nome_feira;VILA ISA;1;False
+nome_feira;JARDIM AEROPORTO;1;False
+nome_feira;CONGONHAS;1;False
+nome_feira;MONARK;1;False
+nome_feira;DEODORO;1;False
+nome_feira;JARDIM CONSORCIO;1;False
+nome_feira;VILA ARRIETE;1;False
+nome_feira;VILA SAO PEDRO;1;False
+nome_feira;CHACARA FLORA;1;False
+nome_feira;CONJUNTO ASTOR;1;False
+nome_feira;PARQUE JABAQUARA;1;False
+nome_feira;IGUATINGA;1;False
+nome_feira;PETROPOLIS;1;False
+nome_feira;SABARA;1;False
+nome_feira;JARDIM SAO VICENTE;1;False
+nome_feira;JARDIM HELENA;1;False
+nome_feira;VILA MARA;1;False
+nome_feira;VILA PROGRESSO;1;False
+nome_feira;VILA NORMA;1;False
+nome_feira;SAO FRANCISCO;1;False
+nome_feira;LIMOEIRO;1;False
+nome_feira;JOSE NUNES;1;False
+nome_feira;PARQUE SONIA;1;False
+nome_feira;JARDIM MAIA;1;False
+nome_feira;VILA SILVESTRE;1;False
+nome_feira;ANGELO LAPENA;1;False
+nome_feira;CECILIA ITER;1;False
+nome_feira;JARDIM ROMANO;1;False
+nome_feira;SAO GONCALO DO RIO DAS PEDRAS;1;False
+nome_feira;DANIEL BERNARDO;1;False
+nome_feira;PRA A DO FORRO;1;False
+nome_feira;VILA NOEMIA;1;False
+nome_feira;JARDIM DAS CAMELIAS;1;False
+nome_feira;JARDIM SAO MARTINHO;1;False
+nome_feira;BAQUIRIVU;1;False
+nome_feira;ITAPOA;1;False
+nome_feira;SAO MIGUEL;1;False
+nome_feira;JARDIM SANTANA;1;False
+nome_feira;PARQUE CRUZEIRO DO SUL;1;False
+nome_feira;CHACARA TRES MENINAS;1;False
+nome_feira;VILA MONTE SANTO;1;False
+nome_feira;THOMAZ DE LIMA;1;False
+nome_feira;VILA DEODORO;1;False
+nome_feira;SANTA CECILIA;1;False
+nome_feira;PONTE PEQUENA;1;False
+nome_feira;CONSOLACAO;1;False
+nome_feira;SANTA EFIGENIA;1;False
+nome_feira;ANHANGABAU;1;False
+nome_feira;BELA VISTA;1;False
+nome_feira;AMERICO DE CAMPOS;1;False
+nome_feira;SAO PAULO;1;False
+nome_feira;BATURITE;1;False
+nome_feira;LIBERDADE/MODERNA;1;False
+nome_feira;FEIRA LIVRE PRACA LIBERDADE;1;False
+nome_feira;ITARARE;1;False
+nome_feira;TIRADENTES;1;False
+nome_feira;TEODORETO SOUTO;1;False
+nome_feira;ANDRADAS;1;False
+nome_feira;PIO XII;1;False
+nome_feira;FORTUNATO;1;False
+nome_feira;FEIRA LIVRE IPIRANGA;1;False
+nome_feira;ALCANTARA MACHADO;1;False
+nome_feira;MARIA JOSE;1;False
+nome_feira;ANGELICA;1;False
+nome_feira;PACAEMBU;1;False
+nome_feira;PERDIZES;1;False
+nome_feira;VITORINO CAMILO;1;False
+nome_feira;BOM RETIRO;1;False
+nome_feira;LIBERDADE;1;False
+nome_feira;BENTO FREITAS;1;False
+nome_feira;MERCADO CENTRAL ORGANICO;1;False
+nome_feira;SAO MATHEUS;1;False
+nome_feira;JARDIM ROSELI;1;False
+nome_feira;JARDIM PARAGUASSU;1;False
+nome_feira;OURO FINO;1;False
+nome_feira;JARDIM VILA CARRAO I;1;False
+nome_feira;JARDIM SAO FRANCISCO;1;False
+nome_feira;CDHU JARDIM IGUATEMI;1;False
+nome_feira;JARDIM ESTER;1;False
+nome_feira;RIBEIRAO DAS PEDRAS;1;False
+nome_feira;SANTA ADELIA;1;False
+nome_feira;JARDIM AUGUSTO;1;False
+nome_feira;JARDIM VERA CRUZ NOTURNA;1;False
+nome_feira;VENEZA DO AMOR;1;False
+nome_feira;EDMUR WITAKER;1;False
+nome_feira;MARIA CURSI;1;False
+nome_feira;SAO RAFAEL;1;False
+nome_feira;ENGENHO NOVO;1;False
+nome_feira;CIDADE SATELITE;1;False
+nome_feira;QUEBEDO E VASCONCELOS;1;False
+nome_feira;VILA IV CENTENARIO;1;False
+nome_feira;JARDIM IGUATEMI;1;False
+nome_feira;CIDADE SAO MATEUS;1;False
+nome_feira;JARDIM VILA NOVA CARRAO;1;False
+nome_feira;JD.BOA ESPERANCA;1;False
+nome_feira;MATEO BEI;1;False
+nome_feira;JARDIM NOVE DE JULHO;1;False
+nome_feira;PARQUE SAO RAFAEL;1;False
+nome_feira;PARQUE BOA ESPERANCA;1;False
+nome_feira;FEIRA DA AGRICULTURA LIMPA;1;False
+nome_feira;FEIRA DA ECONOMIA SOLIDARIA;1;False
+nome_feira;GUANABARA;1;False
+nome_feira;BOSQUE;1;False
+nome_feira;JORGE TIBIRICA;1;False
+nome_feira;DR BACELAR;1;False
+nome_feira;IBIRAPUERA;1;False
+nome_feira;VILA NOVA CONCEICAO;1;False
+nome_feira;MIRANDOPOLIS;1;False
+nome_feira;BARTIRA;1;False
+nome_feira;PLANALTO PAULISTA;1;False
+nome_feira;IBITURUNA;1;False
+nome_feira;CHACARA KLABIM;1;False
+nome_feira;JARDIM DA GLORIA;1;False
+nome_feira;AMBROSINA;1;False
+nome_feira;PAVAO;1;False
+nome_feira;IMIGRANTES;1;False
+nome_feira;VILA CLEMENTINO;1;False
+nome_feira;ALCINO BRAGA;1;False
+nome_feira;ANDRE BOTELHO;1;False
+nome_feira;GANDAVO;1;False
+nome_feira;ALTINO ARANTES;1;False
+nome_feira;VERGUEIRO;1;False
+nome_feira;FEIRAO DA ECONOMIA DE MOEMA;1;False
+nome_feira;FEIRA LIVRE SAO RAFAEL;1;False
+nome_feira;JOAQUIM TAVORA;1;False
+nome_feira;IRERE;1;False
+nome_feira;REPUBLICA DO LIBANO;1;False
+nome_feira;PLANALTO PAULISTA II;1;False
+nome_feira;BRIGADEIRO;1;False
+nome_feira;PARQUE IBIRAPUERA;1;False
+nome_feira;ALTO DE VILA MARIA;1;False
+nome_feira;CRISTOVAM LINS;1;False
+nome_feira;COHAB FERNAO DIAS;1;False
+nome_feira;CENTER NORTE;1;False
+nome_feira;VILA MUNHOZ;1;False
+nome_feira;VILA BOSCHETTI;1;False
+nome_feira;PRACA NIPON;1;False
+nome_feira;CENTRAL;1;False
+nome_feira;VILA ELISA;1;False
+nome_feira;JACUNA;1;False
+nome_feira;VILA PAIVA;1;False
+nome_feira;PRACA 57;1;False
+nome_feira;SANTO ELISIO;1;False
+nome_feira;VILA ALEGRIA;1;False
+nome_feira;VILA ELZA;1;False
+nome_feira;GUARINOS;1;False
+nome_feira;VILA SABRINA;1;False
+nome_feira;JARDIM BRASIL;1;False
+nome_feira;PARQUE NOVO MUNDO;1;False
+nome_feira;VILA ALPINA;1;False
+nome_feira;TOLSTOI;1;False
+nome_feira;PARQUE SANTA MADALENA;1;False
+nome_feira;JARDIM ELBA;1;False
+nome_feira;JARDIM NOVA SAPOPEMBA;1;False
+nome_feira;JARDIM TIALHA;1;False
+nome_feira;COLORADO;1;False
+nome_feira;JARDIM PLANALTO;1;False
+nome_feira;JARDIM SAPOPEMBA;1;False
+nome_feira;TORQUATO TASSO;1;False
+nome_feira;PRACA SANTA HELENA;1;False
+nome_feira;VILA BELA;1;False
+nome_feira;ANA CLARA;1;False
+nome_feira;PAULICEIA;1;False
+nome_feira;INDEPENDENCIA;1;False
+nome_feira;COHAB SAPOPEMBA;1;False
+nome_feira;FEIRA INGAI;1;False
+nome_feira;GERMINIO GOMES DA SILVA;1;False
+nome_feira;VILA CALIFORNIA;1;False
+nome_feira;MASCARENHAS DE MORAES;1;False
+nome_feira;RIO CLARO;1;False
+nome_feira;SERRA DE CAPIVARUCU;1;False
+nome_feira;FEIRA LIVRE JD AVELINO;1;False
+nome_feira;MAESTRO JOÞO EVANGELISTA;1;True
+nome_feira;VILA CELESTE;1;False
+nome_feira;VILA ZELINA;1;False
+nome_feira;JARDIM INDEPENDENCIA;1;False
+nome_feira;AMAZONIA;1;False
+nome_feira;MARIA TEREZA;1;False
+nome_feira;IGUACU;1;False
+nome_feira;MORRO DO FRADE;1;False
+nome_feira;TORQUATO PLAZA;1;False
+nome_feira;QUINTA DAS PAINEIRAS;1;False
+nome_feira;VILA BELEM;1;False
+nome_feira;VILA REUNIDAS;1;False
+nome_feira;JARDIM GRIMALDI;1;False
+nome_feira;VILA PAULO SILAS;1;False
+nome_feira;FEIRA LIVRE ORGANICA WHITAKER;1;False
+tipo_logradouro;RUA;753;False
+tipo_logradouro;AV;115;False
+tipo_logradouro;PC;39;False
+tipo_logradouro;PCA;8;False
+tipo_logradouro;AL;6;False
+tipo_logradouro;ES;3;False
+tipo_logradouro;LG;2;False
+tipo_logradouro;P A;2;False
+tipo_logradouro;TV;2;False
+tipo_logradouro;PQ;1;False
+tipo_logradouro;OR UA;1;False
+tipo_logradouro;TRA;1;False
+logradouro;CHARLES MULLER;4;False
+logradouro;JOSE MARIA WITAKER;4;False
+logradouro;UTARO KANAI C/ FESTA CHINESA;3;False
+logradouro;ARRAIAL DOS COUROS;2;False
+logradouro;BARAO DE MONTE MOR;2;False
+logradouro;ROBERTO GOMES PEDROSA;2;False
+logradouro;CIDADE DO RIO PARDO;2;False
+logradouro;BENITO NICOLETTI;2;False
+logradouro;AUGUSTO DE CASTRO;2;False
+logradouro;NASCER DO SOL;2;False
+logradouro;BRAS GONCALVES;2;False
+logradouro;ITAIM;2;False
+logradouro;DESEM FAUSTO WHITAKER M ALVI;2;False
+logradouro;MONSENHOR SALIM;2;False
+logradouro;BOM PASTOR;2;False
+logradouro;DONA ANA GERMAINE BUCHARD;2;False
+logradouro;DOS TRILHOS C BRESSER;2;False
+logradouro;AGENTE CICERO;2;False
+logradouro;BENEDITO LEAL;2;False
+logradouro;MUNICIPAL;2;False
+logradouro;GRAND RESERVA PAULISTA;2;False
+logradouro;PRETA;2;False
+logradouro;ENGENHEIRO CAETANO ALVARES;2;False
+logradouro;CONDE DE PORTO ALEGRE;2;False
+logradouro;FLORIANO PEIXOTO;2;False
+logradouro;SAO GONCALO DO RIO DAS PEDRA;2;False
+logradouro;CACHOEIRA DE MINAS;2;False
+logradouro;GEOLANDIA;2;False
+logradouro;ADUTORA DO RIO CLARO;2;False
+logradouro;TRUMAIN C/ HENRIQUE MORIZE;1;False
+logradouro;COMEN GIL PINHEIRO;1;False
+logradouro;PROF ALZIRA DE O GILIOLI;1;False
+logradouro;LUIS PINTO;1;False
+logradouro;ELEONORA CINTRA;1;False
+logradouro;SANTA GERTRUDES;1;False
+logradouro;PROF CARLOS CALIOLLI;1;False
+logradouro;MAL MARQUES PORTO;1;False
+logradouro;TIUBA;1;False
+logradouro;SAO VALENTIM;1;False
+logradouro;MARAGOJIPE;1;False
+logradouro;DIAMANTE PRETO;1;False
+logradouro;PETROBRAS;1;False
+logradouro;DOS PEQUIS;1;False
+logradouro;BENEDITO GALVAO;1;False
+logradouro;DENTISTA BARRETO;1;False
+logradouro;PIRAMBOIA;1;False
+logradouro;ALFARO;1;False
+logradouro;VALTER GAZARRA;1;False
+logradouro;GRECCO;1;False
+logradouro;ODILON PIRES;1;False
+logradouro;ROMILDO FINOZZI;1;False
+logradouro;HAROLDO DALTRO;1;False
+logradouro;AREIAO;1;False
+logradouro;FRANCISCA DE PAULA;1;False
+logradouro;ANTONIO MANOGRASSO;1;False
+logradouro;DOM AZEREDO COUTINHO;1;False
+logradouro;MARIA FRANCISCA DO NASCIMENT;1;False
+logradouro;RUFINO FERNANDES INIVARRI;1;False
+logradouro;ANTONIO CALDEIRA;1;False
+logradouro;MARCELINO COELHO;1;False
+logradouro;ALBINO CORREA DE CAMPOS;1;False
+logradouro;MANOEL DA COSTA DANTAS;1;False
+logradouro;MARIA BENEDITA RODRIGUES;1;False
+logradouro;INACIO DIAS DA SILVA;1;False
+logradouro;ESTEVAM FERNANDES;1;False
+logradouro;SALGUEIRO DO CAMPO;1;False
+logradouro;MONS JOAO PEDRO FUSENIG;1;False
+logradouro;ALBERTO BORGES SOVERAL;1;False
+logradouro;LUCA DE MARENZIO;1;False
+logradouro;BELCHIOR FELIX;1;False
+logradouro;ITAPAROQUERA;1;False
+logradouro;MOENDA VELHA GOMES PEDROSA;1;False
+logradouro;CARMELO CALI;1;False
+logradouro;ANTONIO VAZ;1;False
+logradouro;BERNARDINO ESTAZIONE;1;False
+logradouro;ERASMUS GRASSER;1;False
+logradouro;ANDRE LENS;1;False
+logradouro;JOSE RODRIGUES MACIEL;1;False
+logradouro;PEDRO ROCHA;1;False
+logradouro;BEIJA FLOR;1;False
+logradouro;FORTE DO GUARA;1;False
+logradouro;HENRIQUE ROSCHEL CHRISTI;1;False
+logradouro;MARIA DA COSTA BEZERRA;1;False
+logradouro;MARIO WILCHES;1;False
+logradouro;IPE ROXO;1;False
+logradouro;UIRAPURU DO SERTAO;1;False
+logradouro;IBIAPABA;1;False
+logradouro;JOSE JOAQUIM SEABRA;1;False
+logradouro;ADERBAL STRESSER;1;False
+logradouro;LUIS ANTONIO MARTINS;1;False
+logradouro;GABRIEL DE CARVALHO;1;False
+logradouro;EDWARD CARMILO;1;False
+logradouro;CACHOEIRA DO ARREPENDIMENTO;1;False
+logradouro;OCTACILIO TOMANIK;1;False
+logradouro;PLINIO SALGADO;1;False
+logradouro;VATICANO;1;False
+logradouro;IQUIRIRIM;1;False
+logradouro;JORGE WORD;1;False
+logradouro;EDWARD CARMILLO;1;False
+logradouro;SALOMAO WAIMBERG;1;False
+logradouro;AGOSTINHO CANTU C/ ROMAO GO;1;False
+logradouro;PDE ALARICO ZACARIAS;1;False
+logradouro;PROF JOAO DE LORENZO;1;False
+logradouro;JERONIMO FERNANDES;1;False
+logradouro;GAL FRANCISCO MORAZAN;1;False
+logradouro;PUJAIS SABATE;1;False
+logradouro;ORESTES COLOMBARI;1;False
+logradouro;PEREIRA DO LAGO;1;False
+logradouro;ISAAC ALBENIZ C/ FRANCO ALFANO;1;False
+logradouro;LADISLAU ROMAN;1;False
+logradouro;AUGUSTO FARINA;1;False
+logradouro;CLAUDIO FRANCHI;1;False
+logradouro;DR VIRGILIO ALVIN FRANCO;1;False
+logradouro;JOSE ALVES DA CUNHA LIMA;1;False
+logradouro;DR PAULO RIBEIRO COELHO;1;False
+logradouro;CAXINGUI;1;False
+logradouro;GUSTAVO BERTHIER;1;False
+logradouro;FRANCISCO SOARES;1;False
+logradouro;AMADEU DA SILVA SAMELLO;1;False
+logradouro;DE ITAPECERICA;1;False
+logradouro;SERRA DOS DOIS IRMAOS;1;False
+logradouro;CARLOS NAHAS C/ CARLOS LACERD;1;False
+logradouro;DR HUMBERTO PASCALE;1;False
+logradouro;MODELAR;1;False
+logradouro;ANTONIO DA COSTA BARBOSA;1;False
+logradouro;MANUEL HOMEM DE ANDRADE;1;False
+logradouro;ROSARIO SCAMARTI;1;False
+logradouro;CARLOS NAHAS;1;False
+logradouro;PAULINO VITAL DE MORAES;1;False
+logradouro;THEREZA MAIA PINTO;1;False
+logradouro;AGOSTINHO PAIVA;1;False
+logradouro;FORTE WILLIAM;1;False
+logradouro;MARTINHO VAZ DE BARROS;1;False
+logradouro;DR RENATO BUENO NETO;1;False
+logradouro;LUISA TODI;1;False
+logradouro;INACIO PRETO DE MORAES;1;False
+logradouro;ATHOS THOMAZ FERRACIO;1;False
+logradouro;ANACE;1;False
+logradouro;GASTAO RAUL DE FONTON BOSQU;1;False
+logradouro;DR SALVADOR ROCCO;1;False
+logradouro;ANTONIO VIEGAS DE ATAIDE;1;False
+logradouro;HERBERT SPENCER;1;False
+logradouro;ODEMIS;1;False
+logradouro;FRANCISCO DA CRUZ MELLAO;1;False
+logradouro;COLANTONIO;1;False
+logradouro;CARDOSO MOREIRA;1;False
+logradouro;BURLE MARX;1;False
+logradouro;ANATOLE DE BAUDOT;1;False
+logradouro;JOSE BEZERRA FILHO;1;False
+logradouro;NOSSA SENHORA DO OUTEIRO;1;False
+logradouro;ANTONIO PEREIRA TAQUES;1;False
+logradouro;INACIO CUNHA LEME;1;False
+logradouro;BENEDITA MARTINS RAMOS;1;False
+logradouro;DO CAPOEIRAO;1;False
+logradouro;TRINTA E SETE CONJ FARIA LIMA;1;False
+logradouro;BENEDITO MARCELLO;1;False
+logradouro;INACIO DE ALMEIDA ARRUDA;1;False
+logradouro;LUAR DE LAGRIMAS;1;False
+logradouro;RAIMUNDA P DE ALENCAR DA SILV;1;False
+logradouro;JOSE ANTUNES CERDEIRA;1;False
+logradouro;DAS PAINEIRAS;1;False
+logradouro;AMAZONAS MARCONDES;1;False
+logradouro;JOSE BONIFACIO FILHO;1;False
+logradouro;JOSE SCHUNCH;1;False
+logradouro;DANTON JOBIM;1;False
+logradouro;SAO JOSE DO RIO PRETO;1;False
+logradouro;HENRY LACORDAIRE;1;False
+logradouro;RUBENS DE OLIVEIRA;1;False
+logradouro;SAO GUILHERME;1;False
+logradouro;CARLOS ALBERTO BASTOS MACHA;1;False
+logradouro;GAETANO DONIZETTI;1;False
+logradouro;DOS INOCENTES C/ MENDEL;1;False
+logradouro;JOSE LUIZ MONTEIRO;1;False
+logradouro;FRANCISCO BARRETO;1;False
+logradouro;CARLOS OBHERUBER;1;False
+logradouro;BERNA;1;False
+logradouro;SAO CAETANO DO SUL;1;False
+logradouro;DR ANTONIO SIMOES DE CARVALH;1;False
+logradouro;DO ARVOREIRO;1;False
+logradouro;VER JOSE GOMES MORAES NETO;1;False
+logradouro;CLAUDIO SERGIO BERE;1;False
+logradouro;MARCO AURELIO MARILAN;1;False
+logradouro;MARTA MARIA BERNARDES;1;False
+logradouro;BARUEL;1;False
+logradouro;CARLOS BELMIRO CORREA;1;False
+logradouro;EULINA;1;False
+logradouro;DOS PATIS;1;False
+logradouro;MARIA ELISA SIQUEIRA;1;False
+logradouro;SAO LOURENCO DO SUL;1;False
+logradouro;CEL EUCLIDES MACHADO;1;False
+logradouro;ANTONIO FRANCO VELASCO;1;False
+logradouro;CLEUSA MILOCHI;1;False
+logradouro;AFONSO LOPES VIEIRA;1;False
+logradouro;WALDOMIRO SILVEIRA;1;False
+logradouro;FREDERICO PENTEADO JUNIOR;1;False
+logradouro;TOMAZ ANTONIO VILANE;1;False
+logradouro;MARAMBAIA;1;False
+logradouro;MONTE SAO MARTINHO;1;False
+logradouro;GALILEIA;1;False
+logradouro;ANTONIO MUNHOS BONILHA;1;False
+logradouro;MARIANA CALIGIURI RONCHETTI;1;False
+logradouro;MADALENA MADUREIRA;1;False
+logradouro;AUGUSTO GIL;1;False
+logradouro;DR IGNACIO PROENCA GOUVEIA;1;False
+logradouro;CAETANO DESCO;1;False
+logradouro;CESAR PENA RAMOS;1;False
+logradouro;LASAR SEGAL;1;False
+logradouro;MONTE CELESTE;1;False
+logradouro;JUARANA C/ DO CANAVIAL;1;False
+logradouro;SALVADOR LIGABUE;1;False
+logradouro;CUPECE;1;False
+logradouro;ANGELO CRISTIANINI;1;False
+logradouro;ESTANISLAU MONIUSKO;1;False
+logradouro;RAINHA DAS MISSOES;1;False
+logradouro;DELFINO FACCHINA;1;False
+logradouro;MARIA JOSE RANGEL;1;False
+logradouro;SALVADOR RODRIGUES NEGRAO;1;False
+logradouro;BATISTA MACIEL;1;False
+logradouro;VISCONDE DE STA ISABEL;1;False
+logradouro;BRAS DE ABREU;1;False
+logradouro;JOAO GOMES BATISTA;1;False
+logradouro;CELSO DOS SANTOS;1;False
+logradouro;ANTONIO DE PINHO AZEVEDO;1;False
+logradouro;DOS ANIQUIS E DOS CARATAIS;1;False
+logradouro;EDUARDO PEREIRA RAMOS;1;False
+logradouro;JUCA DE AZEVEDO;1;False
+logradouro;LUIS STOLB;1;False
+logradouro;SHOBEE KUMAGAI;1;False
+logradouro;FRANCISCO SOUZA QUEIROZ;1;False
+logradouro;CACHOEIRA SANTA CRUZ;1;False
+logradouro;BUENOS AIRES;1;False
+logradouro;BELIZARIO BENITES;1;False
+logradouro;BOAVENTURA R DA SILVA;1;False
+logradouro;VITORIA SIMIONATO;1;False
+logradouro;ANDRE NATALE;1;False
+logradouro;HERMENEGILDO GOIS PARENTE;1;False
+logradouro;HONORIO EMILIANO BUENO;1;False
+logradouro;ACAIPE;1;False
+logradouro;DARIO COSTA MATOS;1;False
+logradouro;BENEDITO RAMOS RODRIGUES;1;False
+logradouro;JOAO JOSE DE QUEIROZ;1;False
+logradouro;ANTONIO LEITE PENTEADO;1;False
+logradouro;RAFAEL FREDERICO;1;False
+logradouro;DO ACAPUZAL;1;False
+logradouro;BENEDITO GUEDES DE OLIVEIRA;1;False
+logradouro;DO SABAO;1;False
+logradouro;RODOLFO MARCOS TEOFILO;1;False
+logradouro;GUILHERME DE ALMEIDA;1;False
+logradouro;VITANTONIO MATOROSA;1;False
+logradouro;ARARIPIRA;1;False
+logradouro;CHICO DE PAULA;1;False
+logradouro;MARQUES DO RECIFE;1;False
+logradouro;JOSE FELIX ALVES PACHECO;1;False
+logradouro;ITATIBA DO SUL;1;False
+logradouro;JAGUARURAMA;1;False
+logradouro;SPENCER VAMPRE;1;False
+logradouro;MONTREAL;1;False
+logradouro;COLUMBIA;1;False
+logradouro;MOINHO VELHO;1;False
+logradouro;SOUZA CARVALHO;1;False
+logradouro;ESTEVAO FURQUIM;1;False
+logradouro;ANTONIO GOMES DE OLIVEIRA;1;False
+logradouro;NAZARIO PAGANO;1;False
+logradouro;SAO FRANCISCO DO HUMAITA;1;False
+logradouro;DOS SITIANTES;1;False
+logradouro;DR JOSE DE QUEIROS MATOSO;1;False
+logradouro;MARIA NAZARO DA SILVA;1;False
+logradouro;HELCIO DA SILVA;1;False
+logradouro;JAIRO PINTO ARAUJO;1;False
+logradouro;ALEXANDRE SILVA;1;False
+logradouro;COUTINHO E MELO;1;False
+logradouro;JERONIMO DIAS RIBEIRO;1;False
+logradouro;B-10;1;False
+logradouro;GASPAR SARDINHA;1;False
+logradouro;JOAO DE SIQUEIRA AFONSO;1;False
+logradouro;COMTE CARLOS RHUL;1;False
+logradouro;ANDES;1;False
+logradouro;INACIO MOREIRA;1;False
+logradouro;IDEAL;1;False
+logradouro;RIBEIRAO ITAQUERA;1;False
+logradouro;ALVARO DA COSTA;1;False
+logradouro;JOAQUIM MIGUEL DUTRA;1;False
+logradouro;CAMARGO LEME;1;False
+logradouro;JOSE MARTINS DOS SANTOS;1;False
+logradouro;IRMAO DEODORO;1;False
+logradouro;RODOLFO ALBINO SILVA;1;False
+logradouro;PADRE ALDEMAR MOREIRA;1;False
+logradouro;BARTOLINO DE PADUA;1;False
+logradouro;WILSON FERNANDES S CARVALHO;1;False
+logradouro;HENRIQUETA NOGUEZ BRIEBA;1;False
+logradouro;DR ADEMAR FERREIRA DE CARVAL;1;False
+logradouro;LUIS JOSE COSTA (LEANDRO);1;False
+logradouro;MOISES DE CORENA;1;False
+logradouro;DOS TEXTEIS;1;False
+logradouro;DR GUILHERME DE ABREU SODRE;1;False
+logradouro;DONA ELOA DO VALLE QUADROS;1;False
+logradouro;CORACAO DE MACA;1;False
+logradouro;CRISTIANO LOBE;1;False
+logradouro;AGOSTINHO GOMES;1;False
+logradouro;OLIVEIRA MELO;1;False
+logradouro;INHAIBA;1;False
+logradouro;ASSUNGUI C/ AMERICO RIBEIRO;1;False
+logradouro;ANTONIO LAMAS;1;False
+logradouro;LEON DE TOLSTOI C/ ANY;1;False
+logradouro;FREIRE BRAYNER;1;False
+logradouro;PROF ARNALDO JOAO SEMERARO;1;False
+logradouro;XAVIER DE ALMEIDA;1;False
+logradouro;BRIG AMILCAR V PEDERNEIRAS;1;False
+logradouro;MARIO SCHIOPA;1;False
+logradouro;MATIAS TEIXEIRA;1;False
+logradouro;MONTE ALVERNE;1;False
+logradouro;RIZZIERI NEGRINI;1;False
+logradouro;HENRI CROSS;1;False
+logradouro;GUINLE C/ FREDERICO V MARTIUS;1;False
+logradouro;LINO GUEDES;1;False
+logradouro;JAPARATUBA;1;False
+logradouro;CEL FAWCETT C/ EVOLUCAO;1;False
+logradouro;CINCO DE JULHO;1;False
+logradouro;CEL JOSE PIRES DE ANDRADE;1;False
+logradouro;JOSE ANTONIO VALADARES;1;False
+logradouro;FRANCISCO LEMA;1;False
+logradouro;DR MARIO VICENTE;1;False
+logradouro;LINO COUTINHO;1;False
+logradouro;CAMPANTE;1;False
+logradouro;DR CURADO FLEURY;1;False
+logradouro;JOSE COCCIUFFO;1;False
+logradouro;PEDRO BALINT;1;False
+logradouro;COSTA AGUIAR;1;False
+logradouro;DOM ANTONIO ALVARENGA;1;False
+logradouro;ANGATURAMA;1;False
+logradouro;PROF RAUL PEDERNEIRAS;1;False
+logradouro;PATENTE;1;False
+logradouro;CLAUDIO FERREIRA MANOEL;1;False
+logradouro;JOSE CAETANO DA ROCHA;1;False
+logradouro;AMERICO SAMARONE;1;False
+logradouro;DIVINOPOLIS C/ NSA DA SAUDE;1;False
+logradouro;DONA LEOPOLDINA;1;False
+logradouro;ALBINO DE MORAES;1;False
+logradouro;DR EUGENIO EGAS;1;False
+logradouro;ENG JOSE BUENO BICALHO;1;False
+logradouro;CANCAO DO EXILIO;1;False
+logradouro;EMBU DE HELIOPOLIS;1;False
+logradouro;PROF JAIME POGGI;1;False
+logradouro;SANTO ANTONIO DE CATEGERO;1;False
+logradouro;VALENTE DE NOVAES;1;False
+logradouro;ACADEMIA DE SAO PAULO;1;False
+logradouro;BENEDITO DE SOUZA BORGES;1;False
+logradouro;AUGUSTO ALBERECI;1;False
+logradouro;TEODORO BERNARDO DO NASCIME;1;False
+logradouro;DESEM ISNARD DOS REIS;1;False
+logradouro;LINARIA;1;False
+logradouro;IVOTURUCAIA;1;False
+logradouro;LAGOA CAJUBA;1;False
+logradouro;ARVORE DE CERA;1;False
+logradouro;JOSE BORGES DO CANTO;1;False
+logradouro;JOSE GREEF BORBA;1;False
+logradouro;GUABIROBA DE MINAS;1;False
+logradouro;VEREDA DO PARAISO;1;False
+logradouro;ANANAI;1;False
+logradouro;JOAO BARBOSA DE LIMA;1;False
+logradouro;CANAL DE TUTOIA;1;False
+logradouro;ANAJATUBA;1;False
+logradouro;FLAMINGO;1;False
+logradouro;ARACARANA;1;False
+logradouro;CARAIPE DAS AGUAS;1;False
+logradouro;ANASTACIO TRANCOSO;1;False
+logradouro;DA CONQUISTA-G;1;False
+logradouro;KEN SUGAYA;1;False
+logradouro;PALMEIRA LACA;1;False
+logradouro;FLOR DE CABOCLO;1;False
+logradouro;JASMIM DA ESPANHA;1;False
+logradouro;XAVIER PALMERIM;1;False
+logradouro;TERRA BRASILEIRA;1;False
+logradouro;LAURA BOSS;1;False
+logradouro;ANDRE CAVALCANTE;1;False
+logradouro;ESTEVAO DIAS VERGARA;1;False
+logradouro;FREI ANTONIO FAGGIANO;1;False
+logradouro;FLOR DE PELICANO;1;False
+logradouro;RODOLFO BARBOSA DE CASTRO;1;False
+logradouro;FLOR DE SANTA CRUZ;1;False
+logradouro;UACUMA;1;False
+logradouro;VIRGINIA FERNI;1;False
+logradouro;DIOGO JOSE MACHADO;1;False
+logradouro;CANDIDO DE GODOI;1;False
+logradouro;JERONIMO DE BARROS;1;False
+logradouro;ANTONIO GANDINE;1;False
+logradouro;BENTO VIEIRA CASTRO;1;False
+logradouro;CAXIU;1;False
+logradouro;PRAIA DE TORRES;1;False
+logradouro;VENTUROSA;1;False
+logradouro;CARLOS ALBACINI;1;False
+logradouro;SANTA EDITH;1;False
+logradouro;PEDRO LUIZ DE SOUZA;1;False
+logradouro;SAO FELIX DO PIAUI;1;False
+logradouro;ANTONIO CRESPO;1;False
+logradouro;AUGUSTO ANTUNES;1;False
+logradouro;MANOEL BACELAR;1;False
+logradouro;FRANCISCO MUNHOZ FILHO;1;False
+logradouro;IBIAJARA;1;False
+logradouro;PROF BRITO MACHADO;1;False
+logradouro;LAURA BOSSI C ALFREDO RICCI;1;False
+logradouro;CAMPO DE VINHA;1;False
+logradouro;DR CELSO PACHECO BETIM;1;False
+logradouro;BARAO DE GODOFREDO;1;False
+logradouro;PROF HASEGAWA;1;False
+logradouro;DR OLIVIO MONTENEGRO;1;False
+logradouro;LAGOA FEIA;1;False
+logradouro;DAVID D FERREIRA;1;False
+logradouro;NOVA AMERICA;1;False
+logradouro;HUGO VITOR DA SILVA;1;False
+logradouro;ALBA C JOAQUIM MORAIS;1;False
+logradouro;WALDOMIRO DE LIMA;1;False
+logradouro;GRUMIXAMAS;1;False
+logradouro;ENG ARMANDO DE ARRUDA PEREI;1;False
+logradouro;FRANKLIN MAGALHAES;1;False
+logradouro;LUIZ CARLOS FACCHINI;1;False
+logradouro;ROSALIA DE CASTRO;1;False
+logradouro;DEODORO DE CAMPOS;1;False
+logradouro;TEJUPA;1;False
+logradouro;APACE;1;False
+logradouro;DIEDERICHSEN;1;False
+logradouro;BENJAMIM PEREIRA;1;False
+logradouro;ANTONELO DA MESSINA;1;False
+logradouro;PENAFORTE;1;False
+logradouro;ARI DA ROCHA MIRANDA;1;False
+logradouro;MAESTRO BORTOLUCCI;1;False
+logradouro;TEREZA BORTOLO;1;False
+logradouro;DR CARLOS BASTOS ARANHA;1;False
+logradouro;CEL ESDRAS DE OLIVEIRA;1;False
+logradouro;DONA MARIQUINHA SCIASCIA;1;False
+logradouro;LILIENTAL;1;False
+logradouro;MANOEL GAYA;1;False
+logradouro;ELIAS DE SOUZA PINTO;1;False
+logradouro;JOSINO VIEIRA GOES;1;False
+logradouro;ALMEIDA MERCES;1;False
+logradouro;MANOEL PEREIRA ROSA;1;False
+logradouro;FABIA C AURELIA;1;False
+logradouro;AGAMENON MAGALHAES;1;False
+logradouro;DR COSTA JUNIOR C TANABI;1;False
+logradouro;PEDRO HENRIQUE DE O BRAGANCA;1;False
+logradouro;BARCELONA;1;False
+logradouro;MIN GODOY;1;False
+logradouro;SEPETIBA;1;False
+logradouro;BARTOLOMEU BUENO;1;False
+logradouro;ROLANDIA;1;False
+logradouro;FLOR CACHOEIRA E S DO TEIXEIRA;1;False
+logradouro;HIGINO PELLEGRINI;1;False
+logradouro;DRONSFIELD;1;False
+logradouro;CAYOWAA;1;False
+logradouro;TAVARES BASTOS;1;False
+logradouro;SALES JUNIOR;1;False
+logradouro;CACHOEIRA DO SUL;1;False
+logradouro;LAURO MULLER;1;False
+logradouro;FILOMENA MATARAZZO;1;False
+logradouro;PROFESSOR ABRAHAO BEREZIN;1;False
+logradouro;AIMBERE C CAIUBI;1;False
+logradouro;SILVEIRA RODRIGUES C/ MARIO;1;False
+logradouro;DOM JOAO V C SACADURA CABRAL;1;False
+logradouro;ALIANCA LIBERAL;1;False
+logradouro;ARAICAS;1;False
+logradouro;MELVIM JONES;1;False
+logradouro;SALVADOR CARUSO;1;False
+logradouro;MIN FERREIRA ALVES C/ TUCUNA;1;False
+logradouro;BARAO DO BANANAL C COARI;1;False
+logradouro;DOM ROMEU ALBERTI;1;False
+logradouro;CONSELHEIRO BELISARIO;1;False
+logradouro;BELARMINO MATOS;1;False
+logradouro;TUIUTI;1;False
+logradouro;TEREZINA;1;False
+logradouro;BUENOPOLIS;1;False
+logradouro;DR CARLOS GUIMARAES;1;False
+logradouro;FIRMIANO PINTO;1;False
+logradouro;CONDE PRATES;1;False
+logradouro;PIRES DE CAMPOS;1;False
+logradouro;DECIO ABRAMO;1;False
+logradouro;ANDRE VIDAL C/ ALM CALHEIROS;1;False
+logradouro;MATEUS GOMES;1;False
+logradouro;DR JOAO BIZARRO DA NAVE;1;False
+logradouro;CAP MOR PASSOS;1;False
+logradouro;SAMPSON C MENDES JUNIOR;1;False
+logradouro;VIDAL DE NEGREIROS;1;False
+logradouro;MADRE DE DEUS;1;False
+logradouro;MIN SALGADO FILHO;1;False
+logradouro;LUIZA CANERO;1;False
+logradouro;SEBASTIAO BARBOSA;1;False
+logradouro;AIRI;1;False
+logradouro;ERNESTO GIULIANO;1;False
+logradouro;SILVA TELES;1;False
+logradouro;IRMA CAROLINA;1;False
+logradouro;PROF MACHADO TOLOSA;1;False
+logradouro;FLORIANOPOLIS;1;False
+logradouro;DOMINGOS DA FONSECA;1;False
+logradouro;VISCONDE DE ITABORAY;1;False
+logradouro;SILVA COUTINHO;1;False
+logradouro;PLATINA;1;False
+logradouro;HENRIQUE DIAS;1;False
+logradouro;BOM JESUS;1;False
+logradouro;ANTONIO CAMARDO;1;False
+logradouro;SANTA CATARINA;1;False
+logradouro;DOS TRILHOS;1;False
+logradouro;SAO JOSE DO BELEM;1;False
+logradouro;MENDES GONCALVES;1;False
+logradouro;TABAJARAS;1;False
+logradouro;VALENTIM MAGALHAES;1;False
+logradouro;SERRA DE JAIRE;1;False
+logradouro;ENG REINALDO CAJADO;1;False
+logradouro;DOM PEDRO I;1;False
+logradouro;ADELINO DE ALMEIDA CASTILHO;1;False
+logradouro;TORQUATO NETO;1;False
+logradouro;OMACHA;1;False
+logradouro;BAUXITA;1;False
+logradouro;NILZA;1;False
+logradouro;GOITA;1;False
+logradouro;DO HORTICULTORES;1;False
+logradouro;PASTORIL DE ITAPETINGA;1;False
+logradouro;CESAR DIAS;1;False
+logradouro;GUAIAUNA;1;False
+logradouro;MIRANDINHA;1;False
+logradouro;MIGUEL GARCIA;1;False
+logradouro;FRANCISCO DE OLIVEIRA BRAGA;1;False
+logradouro;ASSIS VALENTE C GIL RIBEIRO;1;False
+logradouro;BENTO QUIRINO;1;False
+logradouro;PITAGORAS;1;False
+logradouro;JOSE DA PENHA;1;False
+logradouro;BARTOLOMEU QUADROS;1;False
+logradouro;PEDRO ALEGRETTI;1;False
+logradouro;MARIA CARLOTA;1;False
+logradouro;DURVALINA;1;False
+logradouro;ENG TRINDADE;1;False
+logradouro;IVAN MAIA VASCONCELOS;1;False
+logradouro;MADRE LUISA DOS ANJOS;1;False
+logradouro;PAULO MARQUES;1;False
+logradouro;ANDREA FELICIANI;1;False
+logradouro;DR AUGUSTO S LOPES;1;False
+logradouro;MARAIAL;1;False
+logradouro;CAP JOSE LEITE;1;False
+logradouro;SILVIO TORRES;1;False
+logradouro;DA JUSTICA;1;False
+logradouro;MARIA HELENA BONELLI PALMA;1;False
+logradouro;EDGARD DE SOUZA;1;False
+logradouro;SINANDUVA;1;False
+logradouro;SANTO ALEXANDRE;1;False
+logradouro;MENDONCA DRUMONT;1;False
+logradouro;SAO VITORIO;1;False
+logradouro;JOSE GOMES FARIA;1;False
+logradouro;SERRA VERDE;1;False
+logradouro;DO ROSARIO;1;False
+logradouro;DILVA GOMES;1;False
+logradouro;DANILO JOSE FERNANDES;1;False
+logradouro;GENERAL SOCRATES;1;False
+logradouro;ENEAS DE BARROS;1;False
+logradouro;MELCHERT;1;False
+logradouro;CACHOEIRA PAULISTA;1;False
+logradouro;TALES DE MILETO;1;False
+logradouro;PDE FRANCISCO DE TOLEDO;1;False
+logradouro;GENTIL BRAGA;1;False
+logradouro;JOSE ALOYSIO BRANDAO VILELA;1;False
+logradouro;ADELINA LINHARES;1;False
+logradouro;CRUBIXA;1;False
+logradouro;HELION POVOA;1;False
+logradouro;NOVA INDEPENDENCIA;1;False
+logradouro;OSCAR FREIRE;1;False
+logradouro;LORENA;1;False
+logradouro;PDE CARVALHO;1;False
+logradouro;INDIANA;1;False
+logradouro;ROQUE PETRELA;1;False
+logradouro;BENEDITO CALIXTO;1;False
+logradouro;PROF TAMANDARE DE TOLEDO;1;False
+logradouro;LUMINARIAS;1;False
+logradouro;PDE ARTUR SOMENSI;1;False
+logradouro;PENSYLVANIA;1;False
+logradouro;FERNAO CARDIM;1;False
+logradouro;DR MANOEL CARLOS F DE ALMEIDA;1;False
+logradouro;NAPOLEAO MICHEL;1;False
+logradouro;BARAO DE CAPANEMA;1;False
+logradouro;ANTONIO BICUDO;1;False
+logradouro;JOAO CACHOEIRA C/ DR F HAIDAR;1;False
+logradouro;EUGENIO DE MEDEIROS;1;False
+logradouro;REALENGO;1;False
+logradouro;CAP PINTO FERREIRA C/ BATATAES;1;False
+logradouro;BALUARTE;1;False
+logradouro;GODOI COLACO;1;False
+logradouro;DARDANELOS;1;False
+logradouro;CONCEICAO DE MONTE ALEGRE;1;False
+logradouro;SAO MARUM;1;False
+logradouro;MOURATO COELHO;1;False
+logradouro;ANTONIO CORREIA;1;False
+logradouro;PASTORIL DE ALMENARA;1;False
+logradouro;SALTO DE ITARARE;1;False
+logradouro;SAMUEL BOVY;1;False
+logradouro;AMILCAR DE MAGALHAES;1;False
+logradouro;PDE MARIANO RONCHI;1;False
+logradouro;RUA BRIG HENRIQUE FONTENELLE;1;False
+logradouro;CIRIACO JIMENEZ;1;False
+logradouro;ALEIXOS JAFET;1;False
+logradouro;SALVADOR SALA;1;False
+logradouro;PEDRO MARIGLIANI;1;False
+logradouro;PDE MARCIGAGLIA;1;False
+logradouro;ANTONIO SEBASTIAO SOBRINHO;1;False
+logradouro;VASCO BALBOA;1;False
+logradouro;GONCALVES DE BARROS;1;False
+logradouro;ELISIO CORDEIRO DE SIQUEIRA;1;False
+logradouro;SAO GABRIEL DA CACHOEIRA;1;False
+logradouro;VIGARIO DE GODOY;1;False
+logradouro;SANDOVAL FERREIRA CABRAL;1;False
+logradouro;FRAGATA DA CONSTITUICAO;1;False
+logradouro;COLONIAL DO IRAI;1;False
+logradouro;SANTA MONICA;1;False
+logradouro;MARIA LUCIA DUARTE;1;False
+logradouro;JERIMANDUBA;1;False
+logradouro;DR CARMELO D'AGOSTINHO;1;False
+logradouro;SERRA DO CACHIMBO;1;False
+logradouro;JOSE PIZZA;1;False
+logradouro;JOSE PEREIRA FALCAO;1;False
+logradouro;SANTA CRUZ DE LA SIERRA;1;False
+logradouro;POVOADO DO RIO NOVO;1;False
+logradouro;JURUBIM;1;False
+logradouro;JOSE ATALIBA ORTIZ;1;False
+logradouro;LAUDELINO VIEIRA DE CAMPOS;1;False
+logradouro;MAURO ARAUJO RIBEIRO;1;False
+logradouro;MAXIMO BARBOSA;1;False
+logradouro;LARANJEIRAS DO SUL;1;False
+logradouro;MONSENHOR ESCRIVA;1;False
+logradouro;INTERATIVA;1;False
+logradouro;CALDAS NOVAS;1;False
+logradouro;ENG NOGUEIRA SOARES;1;False
+logradouro;ALBERTO GENTILE;1;False
+logradouro;FELIPE CARDOSO CAMPOS;1;False
+logradouro;JOAO BATISTIA FANTON;1;False
+logradouro;IRITUA;1;False
+logradouro;RAPHAEL DI SANDRO;1;False
+logradouro;TIBURNO;1;False
+logradouro;ANTONIO BARTOLOMEU;1;False
+logradouro;PRESIDENTE FELIX PAIVA;1;False
+logradouro;RECANTO DOS HUMILDES;1;False
+logradouro;VICENTE SOARES;1;False
+logradouro;CASA FORTE;1;False
+logradouro;MERE MARIE ANNAIS DO SION;1;False
+logradouro;CANEDOS;1;False
+logradouro;AURELIANO LEAL C GUATIAIA;1;False
+logradouro;MAESTRO VILA LOBOS;1;False
+logradouro;ITAICY;1;False
+logradouro;GENERAL JOSE ALMEIDA BOTELHO;1;False
+logradouro;GABRIEL PIZZA;1;False
+logradouro;CAP MANOEL NOVAES;1;False
+logradouro;DR EUGENIO FORTES COELHO;1;False
+logradouro;TANQUE VELHO;1;False
+logradouro;ARAGAO;1;False
+logradouro;ANA DE BARROS;1;False
+logradouro;MARIA DO CARMO SENE;1;False
+logradouro;RIBEIRAO DO SALTO;1;False
+logradouro;ANTONIO JOSE DE ARAUJO;1;False
+logradouro;ANTONIO PEREIRA DE SOUZA;1;False
+logradouro;ALVARO GOMES;1;False
+logradouro;TUPIGUAES;1;False
+logradouro;PROF LOURIVAL GOMES MACHADO;1;False
+logradouro;PROF JOAQUIM OZORIO DE AZEVE;1;False
+logradouro;MAESTRO VILLA LOBOS;1;False
+logradouro;ALBERTINA VIEIRA DA S GORDO;1;False
+logradouro;FRANCISCA BIRIBA;1;False
+logradouro;PEDRO RIBEIRO;1;False
+logradouro;SEBASTIAO DE FREITAS;1;False
+logradouro;CRUZ DE MALTA;1;False
+logradouro;DONA MARIA CUSTODIA;1;False
+logradouro;SALVADOR TOLEZANO;1;False
+logradouro;HERISON;1;False
+logradouro;ARNALDO MAGNICARO;1;False
+logradouro;MARIO LOPES LEAO;1;False
+logradouro;DO CARREIRO DE PEDRA;1;False
+logradouro;GIL EANES;1;False
+logradouro;BARAO DE JACEGUAI;1;False
+logradouro;ALEXANDRE DUMAS;1;False
+logradouro;CRISTOVAO PEREIRA;1;False
+logradouro;AMOIPIRA;1;False
+logradouro;TAPES;1;False
+logradouro;INVERNADA;1;False
+logradouro;DA PAZ;1;False
+logradouro;SAO BENEDITO;1;False
+logradouro;COMEN ELIAS ZARZUR;1;False
+logradouro;JOAO BATISTA DI VITORIANO;1;False
+logradouro;ORLANDO PINTO RIBEIRO;1;False
+logradouro;ALEXANDRE N AKSAKOF;1;False
+logradouro;FREI CANISIO;1;False
+logradouro;PROF ALCEU MAYNARD ARAUJO;1;False
+logradouro;HELADE;1;False
+logradouro;BONIFACIO DE ABREU;1;False
+logradouro;ENG TOMAS WHATELY;1;False
+logradouro;BELA VISTA;1;False
+logradouro;OTAVIO TARQUINIO DE SOUZA;1;False
+logradouro;JOAQUIM NEVES MONTEIRO;1;False
+logradouro;PROF ASSIS VELOSO;1;False
+logradouro;CAMOMILA;1;False
+logradouro;CACHOEIRA MANGAVAL;1;False
+logradouro;CRIUVA;1;False
+logradouro;TEJUGUACU;1;False
+logradouro;GLICERIO RODRIGUES;1;False
+logradouro;JOSE MARTINS LISBOA;1;False
+logradouro;MANOEL DOS SANTOS BRAGA;1;False
+logradouro;PAU D'ARCO ROXO;1;False
+logradouro;INAJA GUACU;1;False
+logradouro;FRANCISCO ANTONIO MEIRA;1;False
+logradouro;ANTONIO BERNARDO SILVESTRE;1;False
+logradouro;MIGUEL ANGELO LAPENA;1;False
+logradouro;TSUTOMU HENNI;1;False
+logradouro;SANTA ROSA DE LIMA;1;False
+logradouro;MONS AGNELO;1;False
+logradouro;DIOGO GONCALVES LACO;1;False
+logradouro;DANIEL BERNARDO;1;False
+logradouro;ALEIXO MONTEIRO MAFRA;1;False
+logradouro;MOACIR DANTAS ITAPICURU;1;False
+logradouro;VISTOSA DE MADRE DE DEUS;1;False
+logradouro;LIRIO DA SERRA;1;False
+logradouro;BORBOLETA AMARELA;1;False
+logradouro;HELIO VESSONI;1;False
+logradouro;OLEGARIO MACIEL;1;False
+logradouro;SILVIO CERVELLINI;1;False
+logradouro;FRUTO DO PARAISO;1;False
+logradouro;ANTONIO DE SIQUEIRA;1;False
+logradouro;PEDROSO DA SILVA;1;False
+logradouro;QUILOMBO DO AMBROSIO;1;False
+logradouro;TEIXEIRA LEITE C/ SAO PAULO;1;False
+logradouro;INGLES DE SOUZA;1;False
+logradouro;SEBASTIAO PEREIRA;1;False
+logradouro;GUAPORE;1;False
+logradouro;MAJOR QUEDINHO;1;False
+logradouro;DOS ANDRADAS C/ TIMBIRAS;1;False
+logradouro;SANTO AMARO;1;False
+logradouro;PAMPLONA;1;False
+logradouro;CARDEAL LEME;1;False
+logradouro;STEFANO;1;False
+logradouro;AMERICO DE CAMPOS;1;False
+logradouro;DR PEDRO SEVERIANO;1;False
+logradouro;OLIVEIRA PEIXOTO;1;False
+logradouro;PANDIA CALOGERAS;1;False
+logradouro;LIBERDADE;1;False
+logradouro;ITARARE;1;False
+logradouro;ANTONIO CORUJA;1;False
+logradouro;TEODORETO SOUTO;1;False
+logradouro;DOS ANDRADAS;1;False
+logradouro;PIO XII;1;False
+logradouro;MARTIM FRANCISCO;1;False
+logradouro;IPIRANGA;1;False
+logradouro;VITORIO EMANUEL;1;False
+logradouro;DOM BOSCO;1;False
+logradouro;MARIA JOSE C/ FORTALEZA;1;False
+logradouro;MATO GROSSO C/ PARA;1;False
+logradouro;CAMARAGIBE C/ LOPES CHAVES;1;False
+logradouro;LOUREIRO DA CRUZ C/ URANO;1;False
+logradouro;ADOLFO GORDO;1;False
+logradouro;JARAGUA;1;False
+logradouro;TAGUA;1;False
+logradouro;RIO CLARO;1;False
+logradouro;BENTO FREITAS;1;False
+logradouro;CANTAREIRA;1;False
+logradouro;JOAQUIM GOUVEIA FRANCO;1;False
+logradouro;LUIZA DE JESUS FERREIRA;1;False
+logradouro;DOURADOQUARA;1;False
+logradouro;LEONOR DE SIQUEIRA;1;False
+logradouro;BASSANO DEL GRAPA;1;False
+logradouro;MORRO DAS PEDRAS;1;False
+logradouro;PONTE DA AMIZADE;1;False
+logradouro;MENDONCA E VASCONCELOS;1;False
+logradouro;ANGELO DE CANDIA;1;False
+logradouro;SERITINGA;1;False
+logradouro;HELIODORO PAIVA;1;False
+logradouro;AFONSO FURTADO DE CASTRO;1;False
+logradouro;SAPOPEMBA;1;False
+logradouro;VENEZA DO AMOR;1;False
+logradouro;EDMUR WITAKER;1;False
+logradouro;DOMIZIANO ROSSI;1;False
+logradouro;PIRES CALEIRO;1;False
+logradouro;BENTO DO AMARAL DA SILVA;1;False
+logradouro;ENGENHO NOVO;1;False
+logradouro;PHOBUS;1;False
+logradouro;QUEBEDO E VASCONCELOS;1;False
+logradouro;OURO VERDE DE MINAS;1;False
+logradouro;CUBAS DE MENDONCA;1;False
+logradouro;MARIA LUIZA DO VAL PENTEADO;1;False
+logradouro;MARIANA DE SOUZA GUERRA;1;False
+logradouro;IGUPIARA;1;False
+logradouro;MINISTRO LUIZ SPARANO;1;False
+logradouro;URSA MENOR;1;False
+logradouro;OSVALDO NEVOLA;1;False
+logradouro;DAS CAPITANIAS;1;False
+logradouro;JOAO DO CANTO E MELO;1;False
+logradouro;DIOGO GARCIA;1;False
+logradouro;DUARTE TEIXEIRA CHAVES;1;False
+logradouro;MARIA GARCIA BETIM;1;False
+logradouro;AFONSO PENTEADO;1;False
+logradouro;MATEO BEI;1;False
+logradouro;CEL OSCAR PORTO;1;False
+logradouro;LAVANDISCA;1;False
+logradouro;CARNEIRO DA CUNHA;1;False
+logradouro;JUREIA;1;False
+logradouro;DRA NEYDE APPARECIDA SOLLITO;1;False
+logradouro;GUIMARAES PASSOS;1;False
+logradouro;JOINVILLE;1;False
+logradouro;MARCOS LOPES C/ SILVANIA;1;False
+logradouro;AFONSO CELSO;1;False
+logradouro;DOS ARAES;1;False
+logradouro;PARACATU;1;False
+logradouro;VOLTAIRE C/ PEDRO NICOLE;1;False
+logradouro;PROFESSOR MACEDO SOARES;1;False
+logradouro;ECA DE QUEIROZ;1;False
+logradouro;BENTEVI C JAUAPERI;1;False
+logradouro;AGOSTINHO RODRIGUES FILHO;1;False
+logradouro;MAJOR FREIRE;1;False
+logradouro;CARAMURU;1;False
+logradouro;CEL LISBOA C/ ESTADO DE ISRAEL;1;False
+logradouro;CECI;1;False
+logradouro;ALCINO BRAGA C/ SAMPAIO VIANA;1;False
+logradouro;MARIZ E BARROS;1;False
+logradouro;GANDAVO C/ NAPOLEAO DE BARR;1;False
+logradouro;DOS ANAPURUS;1;False
+logradouro;CONCEICAO VELOSO;1;False
+logradouro;JORNALISTA OTAVIO MUNIZ;1;False
+logradouro;CABOQUENAS;1;False
+logradouro;ENG LUIZ GOMES C SANGIRARDI;1;False
+logradouro;FRANCA PINTO;1;False
+logradouro;DIOGO JACOME;1;False
+logradouro;GUIRATINGA;1;False
+logradouro;CHRIS TRONBJERG;1;False
+logradouro;EISENHOWER;1;False
+logradouro;ATALIBA VIEIRA;1;False
+logradouro;KANEDA;1;False
+logradouro;LUCIANO BROINIZZI C JAPI;1;False
+logradouro;COMBATE LAGOA BRANCA;1;False
+logradouro;ANNA PAPINI GUARANHA;1;False
+logradouro;ALFREDO MARIO PIZZOTTI;1;False
+logradouro;QUEDAS;1;False
+logradouro;OSCAR DA SILVA;1;False
+logradouro;BOSCHETTI;1;False
+logradouro;BENEDITO ESTEVAO DOS SANTOS;1;False
+logradouro;OSAKA;1;False
+logradouro;MOREIRA DE VASCONCELOS;1;False
+logradouro;ANTENOR NAVARRO;1;False
+logradouro;DOS GUARINOS;1;False
+logradouro;GUARACININGA;1;False
+logradouro;CATAPARA;1;False
+logradouro;ALBERTO BYINGTON;1;False
+logradouro;SOLD JOSE VICENTE DE PAULA;1;False
+logradouro;ROLAND GARROS;1;False
+logradouro;ANDARAI;1;False
+logradouro;SANTO ANTONIO DE LISBOA;1;False
+logradouro;GOMES FIGUEIREDO;1;False
+logradouro;MARIETA DA SILVA;1;False
+logradouro;ARARITAGUABA;1;False
+logradouro;SANTA FE DO SUL;1;False
+logradouro;PAULINO DE BRITO;1;False
+logradouro;SUB TENENTE FRANCISCO HIERRO;1;False
+logradouro;JOSE ZAPPI;1;False
+logradouro;DR VICENTE GIACAGLINI;1;False
+logradouro;CARLOS CESAR;1;False
+logradouro;DR TOLSTOI DE CARVALHO;1;False
+logradouro;ALM OTACILIO CUNHA;1;False
+logradouro;TOME DA ROCHA;1;False
+logradouro;ARQUITETO VL NOVA ARTIGAS;1;False
+logradouro;CARLO COCCIA;1;False
+logradouro;PINTO DA LUZ;1;False
+logradouro;DOMINGOS PIRES BRITO;1;False
+logradouro;PEDRO VITORATO;1;False
+logradouro;RIO HIPIAUGUI;1;False
+logradouro;JOAO LOPES DE LIMA;1;False
+logradouro;TORQUATO TASSO;1;False
+logradouro;PEDRO DE GODOI;1;False
+logradouro;PITINGA;1;False
+logradouro;PASCOAL RANIERI MAZILI;1;False
+logradouro;PDE PEDRO MAGNONI;1;False
+logradouro;HILEIA AMAZONICA;1;False
+logradouro;ERNESTO DOS SANTOS;1;False
+logradouro;WALTER RUMMEL;1;False
+logradouro;INGAI;1;False
+logradouro;AUGUSTIN LUBERTI;1;False
+logradouro;JOAO GARCIA GIMENES;1;False
+logradouro;DR JOSE CASSIO SOARES;1;False
+logradouro;MATA MACHADO;1;False
+logradouro;SOLIDONIO LEITE;1;False
+logradouro;GAL PORFIRIO DA PAZ;1;False
+logradouro;TTE GODOFREDO CERQUEIRA LEITE;1;False
+logradouro;LOURIVAL FONTES;1;False
+logradouro;AGUIAS REAIS;1;False
+logradouro;JOSE PACE;1;False
+logradouro;MAESTRO JOAO EVANGELISTA;1;False
+logradouro;PIANCO;1;False
+logradouro;INHAGAPI C/ MANAIAS;1;False
+logradouro;JOAO RODRIGUES PIRES;1;False
+logradouro;SECUNDINO DOMINGUES;1;False
+logradouro;NUBIA;1;False
+logradouro;SERRA DE ITABAIANA;1;False
+logradouro;JOSE DOMINGUES DE PONTES;1;False
+logradouro;MORRO DO FRADE;1;False
+logradouro;TORQUATO PLAZA;1;False
+logradouro;SAO LUIS DO PARAITINGA;1;False
+logradouro;MORAIS COSTA;1;False
+logradouro;JOSE JOAQUIM;1;False
+logradouro;VICTORIA MARCONATO ZONTA;1;False
+logradouro;ANTONIO FONTOURA XAVIER;1;False
+logradouro;FELICI TOSI;1;False
+logradouro;JOSE MARIA WHITAKER;1;False
+bairro;TATUAPE;12;False
+bairro;ITAQUERA;10;False
+bairro;STO AMARO;8;False
+bairro;PENHA;8;False
+bairro;SAO MATEUS;7;False
+bairro;VILA ANDRADE;6;False
+bairro;SANTANA;6;False
+bairro;LIBERDADE;6;False
+bairro;PLANALTO PAULISTA;6;False
+bairro;VL MARIA;6;False
+bairro;SAPOPEMBA;6;False
+bairro;ALTO DA MOOCA;5;False
+bairro;CASA VERDE;5;False
+bairro;IPIRANGA;5;False
+bairro;ITAIM PAULISTA;5;False
+bairro;BRAS;5;False
+bairro;MOOCA;5;False
+bairro;BELENZINHO;5;False
+bairro;CAMBUCI;5;False
+bairro;BELA VISTA;5;False
+bairro;ACLIMACAO;5;False
+bairro;VL GUILHERME;5;False
+bairro;VL CARRAO;4;False
+bairro;PARELHEIROS;4;False
+bairro;VL BRASILANDIA;4;False
+bairro;GUAIANAZES;4;False
+bairro;SACOMA;4;False
+bairro;VL GUARANI;4;False
+bairro;JABAQUARA;4;False
+bairro;LAPA;4;False
+bairro;VL PRUDENTE;4;False
+bairro;JD IRIS;4;False
+bairro;PIRITUBA;4;False
+bairro;CAMPO BELO;4;False
+bairro;PACAEMBU;4;False
+bairro;VL MARIANA;4;False
+bairro;VL FORMOSA;3;False
+bairro;VL RICA;3;False
+bairro;BUTANTA;3;False
+bairro;RIO PEQUENO;3;False
+bairro;ITAIM BIBI;3;False
+bairro;CAPAO REDONDO;3;False
+bairro;CID DUTRA;3;False
+bairro;VL SAO JOSE;3;False
+bairro;PQ PERUCHE;3;False
+bairro;LIMAO;3;False
+bairro;CID ADEMAR;3;False
+bairro;PEDREIRA;3;False
+bairro;ERMELINO MATARAZZO;3;False
+bairro;NOSSA SENHORA DO O;3;False
+bairro;JD SAO PAULO;3;False
+bairro;JARDIM SAO PAULO;3;False
+bairro;CID TIRADENTES;3;False
+bairro;VL CARMOSINA;3;False
+bairro;TUCURUVI;3;False
+bairro;VL MAZZEI;3;False
+bairro;VL ROMANA;3;False
+bairro;JAGUARE;3;False
+bairro;VL POMPEIA;3;False
+bairro;VL MATILDE;3;False
+bairro;VL OLIMPIA;3;False
+bairro;PINHEIROS;3;False
+bairro;JD PAULISTA;3;False
+bairro;JD SAO JOSE;3;False
+bairro;LAUZANE PAULISTA;3;False
+bairro;SANTO AMARO;3;False
+bairro;VL PROGRESSO;3;False
+bairro;STA CECILIA;3;False
+bairro;BOM RETIRO;3;False
+bairro;JD PLANALTO;3;False
+bairro;VL EDE;3;False
+bairro;JD SAPOPEMBA;3;False
+bairro;VL ZELINA;3;False
+bairro;VL CALIFORNIA;2;False
+bairro;VL MANCHESTER;2;False
+bairro;JD VL FORMOSA;2;False
+bairro;JD ANGELA;2;False
+bairro;JD SAO LUIZ;2;False
+bairro;VL REMO;2;False
+bairro;PIRAPORINHA;2;False
+bairro;VILA VARGEM GRANDE;2;False
+bairro;VL SONIA;2;False
+bairro;JD CELESTE;2;False
+bairro;VL DALVA;2;False
+bairro;CAMPO LIMPO;2;False
+bairro;JD JANGADEIRO;2;False
+bairro;JD IPANEMA;2;False
+bairro;COCAIA;2;False
+bairro;VL FRIBURGO;2;False
+bairro;GRAJAU;2;False
+bairro;JD PRIMAVERA;2;False
+bairro;IMIRIM;2;False
+bairro;PARQUE SOUZA ARANH;2;False
+bairro;VL NOVA CACHOEIRINH;2;False
+bairro;JD MIRIAM;2;False
+bairro;JD POPULAR;2;False
+bairro;JD VERONIA;2;False
+bairro;PONTE RAZA;2;False
+bairro;SAO FRANCISCO;2;False
+bairro;VL CISPER;2;False
+bairro;LAGEADO;2;False
+bairro;STA ETELVINA COHAB;2;False
+bairro;CID TIRADENTES COHA;2;False
+bairro;MOINHO VELHO;2;False
+bairro;VL GUMERCINDO;2;False
+bairro;JD DA SAUDE;2;False
+bairro;ALTO DO IPIRANGA;2;False
+bairro;VL DAS MERCES;2;False
+bairro;BOSQUE DA SAUDE;2;False
+bairro;VL MORAES;2;False
+bairro;VL NAIR;2;False
+bairro;VL CARIOCA;2;False
+bairro;JD CAMARGO NOVO;2;False
+bairro;JD ROBRU;2;False
+bairro;JD NAZARE;2;False
+bairro;MIT AIM PAULISTA;2;False
+bairro;JD BRASILIA;2;False
+bairro;PQ SAVOY CITY;2;False
+bairro;VL VERDE;2;False
+bairro;COHAB II;2;False
+bairro;CID LIDER;2;False
+bairro;STA CATARINA;2;False
+bairro;VL ALBERTINA;2;False
+bairro;JD TREMEMBE;2;False
+bairro;TREMEMBE;2;False
+bairro;AGUA BRANCA;2;False
+bairro;A GUA BRANCA;2;False
+bairro;PERDIZES;2;False
+bairro;VL JAGUARA;2;False
+bairro;BARRA FUNDA;2;False
+bairro;VL DIVA;2;False
+bairro;BRAZ;2;False
+bairro;VL EMA;2;False
+bairro;PARI;2;False
+bairro;CANGAIBA;2;False
+bairro;ENG GOULART;2;False
+bairro;PENHA DE FRANCA;2;False
+bairro;VL GUILHERMINA;2;False
+bairro;ARTUR ALVIM;2;False
+bairro;VL NHOCUNE;2;False
+bairro;JD NORDESTE;2;False
+bairro;ITAQUERA COHAB I;2;False
+bairro;CID MONCOES;2;False
+bairro;JD AMERICA;2;False
+bairro;CERQUEIRA CEZAR;2;False
+bairro;PQ PAN AMERICANO;2;False
+bairro;CHAC INGLESA;2;False
+bairro;PARADA DE TAIPAS;2;False
+bairro;MANDAQUI;2;False
+bairro;STA TEREZINHA;2;False
+bairro;VL GUSTAVO;2;False
+bairro;CHAC STO ANTONIO;2;False
+bairro;VL JACUI;2;False
+bairro;SAO MIGUEL;2;False
+bairro;CONSOLACAO;2;False
+bairro;JD VERA CRUZ;2;False
+bairro;JD NOVE DE JULHO;2;False
+bairro;JD STA ADELIA;2;False
+bairro;PQ SAO RAFAEL;2;False
+bairro;PARAISO;2;False
+bairro;MOEMA;2;False
+bairro;VL CLEMENTINO;2;False
+bairro;IBIRAPUERA;2;False
+bairro;FAZENDA JUTA;2;False
+bairro;JD JAPAO;2;False
+bairro;VL SABRINA;2;False
+bairro;JD BRASIL;2;False
+bairro;VL BELA;2;False
+bairro;PQ STA MADALENA;2;False
+bairro;JD ELBA;2;False
+bairro;PQ SAO LUCAS;2;False
+bairro;JD GRIMALDI;2;False
+bairro;JD ANALIA FRANCO;1;False
+bairro;PQ MARIA LUIZA;1;False
+bairro;VL NOVA YORK;1;False
+bairro;ARICANDUVA;1;False
+bairro;VL ANTONIETA;1;False
+bairro;VILA CARRAO;1;False
+bairro;VL STA IZABEL;1;False
+bairro;VILA GOMES CARDIM;1;False
+bairro;JD ARICANDUVA;1;False
+bairro;JD IVA;1;False
+bairro;OVL CRUZEIRO;1;False
+bairro;BARREIRA GRANDE;1;False
+bairro;VILA ANTONIETA;1;False
+bairro;JD RANIERI;1;False
+bairro;PQ STO ANTONIO;1;False
+bairro;JD IBIRAPUERA;1;False
+bairro;JD STA GERTRUDES;1;False
+bairro;PQ NOVO STO AMARO;1;False
+bairro;JD VAZ DE LIMA;1;False
+bairro;PQ FIG GRANDE;1;False
+bairro;J D SAO BENTO NOVO;1;False
+bairro;VL STA LUCIA;1;False
+bairro;JD VERGUEIRO;1;False
+bairro;VL DAS BELEZAS;1;False
+bairro;JD IMBE;1;False
+bairro;JARDIM SAO LUIZ;1;False
+bairro;SAO LUIS;1;False
+bairro;JD DOS ALAMOS;1;False
+bairro;JD MARIA BORBA;1;False
+bairro;VL TIRADENTES;1;False
+bairro;JD ARPOADOR;1;False
+bairro;PAINEIRAS DO MORUM;1;False
+bairro;JD BOA VISTA;1;False
+bairro;J D ARPOADOR;1;False
+bairro;ESTADIO DO MORUMBI;1;False
+bairro;JD JOAO XXIII;1;False
+bairro;VL INDIANA;1;False
+bairro;JD BONFIGLIOLI;1;False
+bairro;MBUETSANTA;1;False
+bairro;VL MARIA LUIZA;1;False
+bairro;JD SAO JORGE;1;False
+bairro;JD GUARAU;1;False
+bairro;REAL PQ MORUMBI;1;False
+bairro;VL BORGES;1;False
+bairro;VL GOMES;1;False
+bairro;MORUMBI;1;False
+bairro;CAXINGUI;1;False
+bairro;JD PINHEIROS;1;False
+bairro;JD D ABRIL;1;False
+bairro;JD ANTONIA;1;False
+bairro;JD RAPOSO TAVARES;1;False
+bairro;PQ REGINA;1;False
+bairro;PQ FERNANDA;1;False
+bairro;JD DAS ROSAS;1;False
+bairro;AJD ROSANA;1;False
+bairro;JARDIM SANTO ANTON;1;False
+bairro;JD ROSANA;1;False
+bairro;VL PRELL;1;False
+bairro;JD MACEDONIA;1;False
+bairro;JD CATANDUVA;1;False
+bairro;JD IRENE;1;False
+bairro;VL ANDRADE;1;False
+bairro;JD UMARIZAL;1;False
+bairro;EJTD IPE;1;False
+bairro;PARQUE FERNANDA;1;False
+bairro;JD MARIA SAMPAIO;1;False
+bairro;PARAIZOPOLIS;1;False
+bairro;JD UMUARAMA;1;False
+bairro;HORTO DO YPE;1;False
+bairro;JARDIM OLINDA;1;False
+bairro;VL SUZANA;1;False
+bairro;PQ GRAJAU;1;False
+bairro;JD PRESIDENTE;1;False
+bairro;JD TRES CORACOES;1;False
+bairro;JD COLONIAL;1;False
+bairro;PQ COCAIA;1;False
+bairro;PQ SAO PAULO;1;False
+bairro;VILA DA PAZ;1;False
+bairro;JD NOVO HORIZONTE;1;False
+bairro;AJARDIM VARGINHA;1;False
+bairro;PQ AMERICA;1;False
+bairro;VELEIROS;1;False
+bairro;JD STA FRANCISCA;1;False
+bairro;DCOO CAIA;1;False
+bairro;PQ BRASIL;1;False
+bairro;SOCORRO;1;False
+bairro;JD IMBUIAS;1;False
+bairro;OJD SAO BERNARDO;1;False
+bairro;CAPELA DO SOCORRO;1;False
+bairro;PQ RESIDENCIAL;1;False
+bairro;JD SATELITE;1;False
+bairro;JD ALMEIDA PRADO;1;False
+bairro;VILA NATAL;1;False
+bairro;BARUEL;1;False
+bairro;VL BELA VISTA;1;False
+bairro;VL BARBOSA;1;False
+bairro;JD PERI ALTO;1;False
+bairro;JD DAS GRACAS;1;False
+bairro;CACHOEIRINHA;1;False
+bairro;VILA DIONISIA;1;False
+bairro;VL STA MARIA;1;False
+bairro;JD STA CRUZ;1;False
+bairro;VL CAROLINA;1;False
+bairro;VL CONTINENTAL;1;False
+bairro;FREGUESIA DO O;1;False
+bairro;VL SIQUEIRA;1;False
+bairro;VL JOANISA;1;False
+bairro;VL MISSIONARIA;1;False
+bairro;JD VERA LUCIA;1;False
+bairro;JD PRUDENCIA;1;False
+bairro;VL CONSTANCIA;1;False
+bairro;JD UBIRAJARA;1;False
+bairro;JD CIDALIA;1;False
+bairro;JD NITEROI;1;False
+bairro;JD MARAJOARA;1;False
+bairro;JD VILAS BOAS;1;False
+bairro;VL RIO BRANCO;1;False
+bairro;VL BUENOS AIRES;1;False
+bairro;JD LISBOA;1;False
+bairro;BURGO PAULISTA;1;False
+bairro;JARDIM BELEM;1;False
+bairro;VL PONTE RASA;1;False
+bairro;VL PALMEIRAS;1;False
+bairro;CRUZ DAS ALMAS;1;False
+bairro;JD ELISEO;1;False
+bairro;PQ BELEM;1;False
+bairro;JARDIM PRINCESA;1;False
+bairro;JARDIM DO RECANTO;1;False
+bairro;VL BANCARIA;1;False
+bairro;JD VISTA ALEGRE;1;False
+bairro;PQ SAO LUIS;1;False
+bairro;VL NIGRI;1;False
+bairro;JD GUARANI;1;False
+bairro;VL MIRIAN;1;False
+bairro;JD MONJOLO;1;False
+bairro;PQ TIETE;1;False
+bairro;VILA GONCALVES;1;False
+bairro;JD ANA MARIA;1;False
+bairro;JARDIM BRASILIA;1;False
+bairro;CIDADE TIRADENTES;1;False
+bairro;VL PRINCESA ISABEL;1;False
+bairro;JARDIM SOARES;1;False
+bairro;JD CELIA;1;False
+bairro;VL SAO GERALDO;1;False
+bairro;LAJEADO;1;False
+bairro;VILA PRINCESA ISABEL;1;False
+bairro;GUAINAZES;1;False
+bairro;STA ETELVINA;1;False
+bairro;CJ HAB FAZENDA DO CA;1;False
+bairro;HVOILA YOLANDA II;1;False
+bairro;GUAIANAZES COHAB;1;False
+bairro;TIRADENTES COHAB;1;False
+bairro;VL CRISTALIA;1;False
+bairro;VL INDEPENDENCIA;1;False
+bairro;PARQUE BRISTOL;1;False
+bairro;AGUA FUNDA;1;False
+bairro;VL STA EULALIA;1;False
+bairro;VL ARAPUA;1;False
+bairro;JD SANTA EMILIA;1;False
+bairro;VL MONUMENTO;1;False
+bairro;SAO JOAO CLIMACO;1;False
+bairro;VL VERA;1;False
+bairro;JD LEAR;1;False
+bairro;JARDIM APURA;1;False
+bairro;JD MARIA ESTELA;1;False
+bairro;VL CONDE DO PINHAL;1;False
+bairro;JD PATENTE;1;False
+bairro;VL OLIVIERI;1;False
+bairro;PQ BRISTOL;1;False
+bairro;JD CLIMAX;1;False
+bairro;JD TROPICAL;1;False
+bairro;HELIOPOLIS;1;False
+bairro;JARDIM MARIA ESTELA;1;False
+bairro;VILA NATALIA;1;False
+bairro;JD CAMARGO;1;False
+bairro;PNQTO STA RITA;1;False
+bairro;VL CURUCA VELHA;1;False
+bairro;JD CAMPOS;1;False
+bairro;JD NOVA CURUCA;1;False
+bairro;JD CAMARGO VELHO;1;False
+bairro;VL ITAIM;1;False
+bairro;JD GIANETTI;1;False
+bairro;VL NOVA CURACA;1;False
+bairro;JD MILIUNAS;1;False
+bairro;PQ STA RITA;1;False
+bairro;VL CURUCA NOVA;1;False
+bairro;JD DOS IPES;1;False
+bairro;JD DAS OLIVEIRAS;1;False
+bairro;JD NELIA;1;False
+bairro;CDHU CAMARGO VELH;1;False
+bairro;JD ELIANE;1;False
+bairro;PQ GUARANI;1;False
+bairro;VL SUICA;1;False
+bairro;GUAIANASES;1;False
+bairro;VILA REGINA;1;False
+bairro;JD NSRA DO CARMO;1;False
+bairro;JD CASA PINTADA;1;False
+bairro;PARQUE GUARANI;1;False
+bairro;JD ARIZI;1;False
+bairro;JD ITAPEMIRIM;1;False
+bairro;VL BRASIL;1;False
+bairro;VL CAMPANELA;1;False
+bairro;JOSE BONIFACIO;1;False
+bairro;JD STA HELENA;1;False
+bairro;VL RAMOS;1;False
+bairro;JARDIM HELIAN;1;False
+bairro;PARADA XV NOVEMBR;1;False
+bairro;VL MASTROCOLA;1;False
+bairro;ITAQUERA COHAB II;1;False
+bairro;JD STA TEREZINHA;1;False
+bairro;JARDIM ITAPEMIRIM;1;False
+bairro;VILA CARMOSINA;1;False
+bairro;CID VARGAS;1;False
+bairro;AMERICANOPOLIS;1;False
+bairro;RJAA BAQUARA;1;False
+bairro;VL FACCHINI;1;False
+bairro;VL CAMPESTRE;1;False
+bairro;JACANA;1;False
+bairro;VL ZILDA;1;False
+bairro;JD PAULISTANA;1;False
+bairro;VL NOVA GALVAO;1;False
+bairro;VL NILO;1;False
+bairro;JD JOAMAR;1;False
+bairro;JD FONTALIS;1;False
+bairro;STA EDWIGES;1;False
+bairro;V L JAGUARA;1;False
+bairro;VL ANASTACIO;1;False
+bairro;VL PIAUI;1;False
+bairro;SUMAREZINHO;1;False
+bairro;ALTO DA LAPA;1;False
+bairro;VL HAMBURGUESA;1;False
+bairro;A LTO DA LAPA;1;False
+bairro;VL LEOPOLDINA;1;False
+bairro;VL IPOJUCA;1;False
+bairro;LAPA DE BAIXO;1;False
+bairro;BRESSER;1;False
+bairro;QUARTA PARADA;1;False
+bairro;BELEM;1;False
+bairro;PQ DA MOOCA;1;False
+bairro;AGUA RASA;1;False
+bairro;CANINDE;1;False
+bairro;VL ORATORIO;1;False
+bairro;VL CANERO;1;False
+bairro;VL SAO CARLOS;1;False
+bairro;VL LESTE;1;False
+bairro;VL INVERNADA;1;False
+bairro;VL DALILA;1;False
+bairro;VL ESPERANCA;1;False
+bairro;PQ ARTUR ALVIM;1;False
+bairro;VL SILVIA;1;False
+bairro;VL PAULISTANIA;1;False
+bairro;VL NOVA GRANADA;1;False
+bairro;TRES MARIA;1;False
+bairro;VL TALARICO;1;False
+bairro;JD COIMBRA;1;False
+bairro;JD DANFER;1;False
+bairro;JD TRIANA;1;False
+bairro;VILA VIDAL;1;False
+bairro;VL RUI BARBOSA;1;False
+bairro;VILA RUI BARBOSA;1;False
+bairro;VL ARICANDUVA;1;False
+bairro;VL MARIETA;1;False
+bairro;JD MARINGA;1;False
+bairro;VL RE;1;False
+bairro;VILA SILVIA;1;False
+bairro;VL SANTANA;1;False
+bairro;CID PATRIARCA;1;False
+bairro;CID A E CARVALHO;1;False
+bairro;VL BUENOS AYRES;1;False
+bairro;JD PIRATININGA;1;False
+bairro;VL ARAGUAIA;1;False
+bairro;SUMARE;1;False
+bairro;BROOKLIM PAULISTA;1;False
+bairro;JD DAS BANDEIRAS;1;False
+bairro;VL BEATRIZ;1;False
+bairro;CERQUEIRA CESAR;1;False
+bairro;P INHEIROS;1;False
+bairro;VL IDA;1;False
+bairro;BROOKLIN PAULISTA;1;False
+bairro;CIDADE MONCOES;1;False
+bairro;VL MADALENA;1;False
+bairro;VL BONILHA;1;False
+bairro;JD JOSE MARIA;1;False
+bairro;JARDIM CITY JARAGUA;1;False
+bairro;PQ SAO DOMINGUES;1;False
+bairro;PQ NACOES UNIDAS;1;False
+bairro;VILA AURORA;1;False
+bairro;PIQUERI;1;False
+bairro;JD REGINA;1;False
+bairro;JD PIRITUBA;1;False
+bairro;JARIDM;1;False
+bairro;VL ZATT;1;False
+bairro;JD MAGGI;1;False
+bairro;JARDIM SANTA MONIC;1;False
+bairro;JARDIM IRIS;1;False
+bairro;VL MUTINGA;1;False
+bairro;VL JARAGUA;1;False
+bairro;JD RINCAO;1;False
+bairro;JARDIM VITORIA;1;False
+bairro;JARDIM MARISA;1;False
+bairro;VL MIRANTE;1;False
+bairro;VL MANGALOT;1;False
+bairro;JD DA FELICIDADE;1;False
+bairro;CID D ABRIL;1;False
+bairro;JD MARILU;1;False
+bairro;JARDIM PAULISTANO;1;False
+bairro;VILA NOVA ESPERANCA;1;False
+bairro;JD DO RUSSO;1;False
+bairro;JD BRITANIA;1;False
+bairro;VL FANTON;1;False
+bairro;VL FONTON;1;False
+bairro;VILA CAIUBA;1;False
+bairro;PERUS;1;False
+bairro;VL MALVINA;1;False
+bairro;VL PERUS;1;False
+bairro;JD JARAGUA;1;False
+bairro;RECANTO DOS HUMILD;1;False
+bairro;VL NOVA MAZZEI;1;False
+bairro;VILA GUSTAVO;1;False
+bairro;AGUA FRIA;1;False
+bairro;PQ VITORIA;1;False
+bairro;JD SAO BENTO;1;False
+bairro;CHORA MENINO;1;False
+bairro;STA INES;1;False
+bairro;VL PAULICEIA;1;False
+bairro;LAUSANE PAULISTA;1;False
+bairro;PALMAS DO TREMEMB;1;False
+bairro;V L STA TEREZINHA;1;False
+bairro;DJOD SAO PAULO;1;False
+bairro;VL AURORA;1;False
+bairro;VL CONSTANCA;1;False
+bairro;RODRIGUES ALVES;1;False
+bairro;JD JURUBATUBA;1;False
+bairro;VL CRUZEIRO;1;False
+bairro;VL ISA;1;False
+bairro;JD AEROPORTO;1;False
+bairro;CONGONHAS;1;False
+bairro;JD CONSORCIO;1;False
+bairro;VL ARRIETE;1;False
+bairro;VL SAO PEDRO;1;False
+bairro;VL SOFIA;1;False
+bairro;VARZEA DE BAIXO;1;False
+bairro;VL STA CATARINA;1;False
+bairro;PQ JABAQUARA;1;False
+bairro;VL UNIAO;1;False
+bairro;PIRAQUARA;1;False
+bairro;JD SAO VICENTE;1;False
+bairro;JD HELENA;1;False
+bairro;SP Q PAULISTANO;1;False
+bairro;VL NORMA;1;False
+bairro;LIMOEIRO;1;False
+bairro;CID PEDRO JOSE NUNES;1;False
+bairro;JD MAIA;1;False
+bairro;VL SAO SILVESTRE;1;False
+bairro;PQ PAULISTANO;1;False
+bairro;JD ROMANO;1;False
+bairro;SV ILA MARA;1;False
+bairro;VL AMERICANA;1;False
+bairro;SÞO MIGUEL;1;True
+bairro;CID NOVA S MIGUEL;1;False
+bairro;JD NOEMIA;1;False
+bairro;JD DAS CAMELIAS;1;False
+bairro;JD SAO MARTINHO;1;False
+bairro;VL SINHA;1;False
+bairro;JD SAO CARLOS;1;False
+bairro;JD SANTANA;1;False
+bairro;PQ CRUZEIRO DO SUL;1;False
+bairro;CHAC TRES MENINAS;1;False
+bairro;VL MONTE SANTO;1;False
+bairro;PONTE PEQUENA;1;False
+bairro;STA EFIGENIA;1;False
+bairro;SANTA EFIGENIA;1;False
+bairro;REPUBLICA;1;False
+bairro;CENTRO;1;False
+bairro;CID SAO MATHEUS;1;False
+bairro;JD ROSELI;1;False
+bairro;JD PARAGUASSU;1;False
+bairro;JD VL CARRAO;1;False
+bairro;JD SAO FRANCISCO;1;False
+bairro;JARDIM IGUATEMI;1;False
+bairro;JD ESTER;1;False
+bairro;JARD M AUGUSTO;1;False
+bairro;JARDIM SANTO ANDRE;1;False
+bairro;JD TIETE;1;False
+bairro;JD STA BARBARA;1;False
+bairro;VL IV CENTENARIO;1;False
+bairro;JD IGUATEMI;1;False
+bairro;CID SAO MATEUS;1;False
+bairro;JD VL NOVA CARRAO;1;False
+bairro;JD BOA ESPERANCA;1;False
+bairro;JARDIM SANTA ADELIA;1;False
+bairro;SAO MATHEUS;1;False
+bairro;JD STO ANDRE;1;False
+bairro;JD DAS LARANJEIRAS;1;False
+bairro;PQ DO CARMO;1;False
+bairro;VL DA SAUDE;1;False
+bairro;STA CRUZ;1;False
+bairro;VL NOVA CONCEICAO;1;False
+bairro;SAO JUDAS;1;False
+bairro;JD VL MARIANA;1;False
+bairro;JD DA GLORIA;1;False
+bairro;INDIANOPOLIS;1;False
+bairro;V L MARIANA;1;False
+bairro;P ARAISO;1;False
+bairro;OVSL MARIANA;1;False
+bairro;SAUDE;1;False
+bairro;VL HELENA;1;False
+bairro;VILA MARIANA;1;False
+bairro;MEDEIROS;1;False
+bairro;CARANDIRU;1;False
+bairro;VILA ELISA;1;False
+bairro;VL MEDEIROS;1;False
+bairro;VILA MARIA;1;False
+bairro;VL MARIA BAIXA;1;False
+bairro;PQ NOVO MUNDO;1;False
+bairro;VL DIVINA PASTORA;1;False
+bairro;JD NOVA SAPOPEMBA;1;False
+bairro;JD TIALHA;1;False
+bairro;JD COLORADO;1;False
+bairro;VL ANA CLARA;1;False
+bairro;JD GUAIRACA;1;False
+bairro;JD INDEPENDENCIA;1;False
+bairro;VILA PRUDENTE;1;False
+bairro;VILA REGENTE FEIJO;1;False
+bairro;JD AVELINO;1;False
+bairro;SAO LUCAS;1;False
+bairro;VL CELESTE;1;False
+bairro;VL TOLSTOI;1;False
+bairro;JD DA CONQUISTA;1;False
+bairro;VL GRIMALDI;1;False
+bairro;VL REUNIDAS;1;False
+bairro;VL PAULO SILAS;1;False

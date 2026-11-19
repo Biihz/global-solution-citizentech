@@ -1,0 +1,106 @@
+market_id,category_level_I,category_level_II,kg_per_stall,classification,source_table,source_page
+
+SM1,Packaging,Packaging,2.00,packaging,Table 3,8
+SM2,Packaging,Packaging,3.07,packaging,Table 3,8
+SM3,Packaging,Packaging,3.40,packaging,Table 3,8
+SM4,Packaging,Packaging,5.89,packaging,Table 3,8
+SM1,Leaves flowers and stems,Broccoli and cauliflower,0.00,avoidable_food_waste,Table 3,8
+SM2,Leaves flowers and stems,Broccoli and cauliflower,0.00,avoidable_food_waste,Table 3,8
+SM3,Leaves flowers and stems,Broccoli and cauliflower,0.03,avoidable_food_waste,Table 3,8
+SM4,Leaves flowers and stems,Broccoli and cauliflower,0.17,avoidable_food_waste,Table 3,8
+SM1,Leaves flowers and stems,Cabbage,0.00,avoidable_food_waste,Table 3,8
+SM2,Leaves flowers and stems,Cabbage,0.01,avoidable_food_waste,Table 3,8
+SM3,Leaves flowers and stems,Cabbage,0.00,avoidable_food_waste,Table 3,8
+SM4,Leaves flowers and stems,Cabbage,0.00,avoidable_food_waste,Table 3,8
+SM1,Leaves flowers and stems,Other,0.00,avoidable_food_waste,Table 3,8
+SM2,Leaves flowers and stems,Other,1.17,avoidable_food_waste,Table 3,8
+SM3,Leaves flowers and stems,Other,6.80,avoidable_food_waste,Table 3,8
+SM4,Leaves flowers and stems,Other,7.55,avoidable_food_waste,Table 3,8
+SM1,Processed products,Tubers bulbs and roots,0.00,avoidable_food_waste,Table 3,8
+SM2,Processed products,Tubers bulbs and roots,0.00,avoidable_food_waste,Table 3,8
+SM3,Processed products,Tubers bulbs and roots,0.01,avoidable_food_waste,Table 3,8
+SM4,Processed products,Tubers bulbs and roots,0.00,avoidable_food_waste,Table 3,8
+SM1,Processed products,Fruits and vegetables,0.00,avoidable_food_waste,Table 3,8
+SM2,Processed products,Fruits and vegetables,0.00,avoidable_food_waste,Table 3,8
+SM3,Processed products,Fruits and vegetables,0.00,avoidable_food_waste,Table 3,8
+SM4,Processed products,Fruits and vegetables,0.00,avoidable_food_waste,Table 3,8
+SM1,Processed products,Leaves flowers and stems,0.00,avoidable_food_waste,Table 3,8
+SM2,Processed products,Leaves flowers and stems,0.00,avoidable_food_waste,Table 3,8
+SM3,Processed products,Leaves flowers and stems,0.00,avoidable_food_waste,Table 3,8
+SM4,Processed products,Leaves flowers and stems,0.00,avoidable_food_waste,Table 3,8
+SM1,Tubers bulbs and roots,Potato,0.00,avoidable_food_waste,Table 3,8
+SM2,Tubers bulbs and roots,Potato,0.02,avoidable_food_waste,Table 3,8
+SM3,Tubers bulbs and roots,Potato,0.02,avoidable_food_waste,Table 3,8
+SM4,Tubers bulbs and roots,Potato,0.36,avoidable_food_waste,Table 3,8
+SM1,Tubers bulbs and roots,Carrot,0.00,avoidable_food_waste,Table 3,8
+SM2,Tubers bulbs and roots,Carrot,0.00,avoidable_food_waste,Table 3,8
+SM3,Tubers bulbs and roots,Carrot,0.02,avoidable_food_waste,Table 3,8
+SM4,Tubers bulbs and roots,Carrot,0.07,avoidable_food_waste,Table 3,8
+SM1,Tubers bulbs and roots,Onion,0.00,avoidable_food_waste,Table 3,8
+SM2,Tubers bulbs and roots,Onion,0.00,avoidable_food_waste,Table 3,8
+SM3,Tubers bulbs and roots,Onion,0.04,avoidable_food_waste,Table 3,8
+SM4,Tubers bulbs and roots,Onion,0.26,avoidable_food_waste,Table 3,8
+SM1,Tubers bulbs and roots,Other,0.00,avoidable_food_waste,Table 3,8
+SM2,Tubers bulbs and roots,Other,0.00,avoidable_food_waste,Table 3,8
+SM3,Tubers bulbs and roots,Other,0.00,avoidable_food_waste,Table 3,8
+SM4,Tubers bulbs and roots,Other,0.16,avoidable_food_waste,Table 3,8
+SM1,Vegetables,Tomato,0.11,avoidable_food_waste,Table 3,8
+SM2,Vegetables,Tomato,0.05,avoidable_food_waste,Table 3,8
+SM3,Vegetables,Tomato,0.24,avoidable_food_waste,Table 3,8
+SM4,Vegetables,Tomato,1.22,avoidable_food_waste,Table 3,8
+SM1,Vegetables,Pumpkin,0.00,avoidable_food_waste,Table 3,8
+SM2,Vegetables,Pumpkin,0.03,avoidable_food_waste,Table 3,8
+SM3,Vegetables,Pumpkin,0.00,avoidable_food_waste,Table 3,8
+SM4,Vegetables,Pumpkin,0.02,avoidable_food_waste,Table 3,8
+SM1,Vegetables,Bell pepper,0.00,avoidable_food_waste,Table 3,8
+SM2,Vegetables,Bell pepper,0.00,avoidable_food_waste,Table 3,8
+SM3,Vegetables,Bell pepper,0.00,avoidable_food_waste,Table 3,8
+SM4,Vegetables,Bell pepper,0.00,avoidable_food_waste,Table 3,8
+SM1,Vegetables,Chayote,0.00,avoidable_food_waste,Table 3,8
+SM2,Vegetables,Chayote,0.00,avoidable_food_waste,Table 3,8
+SM3,Vegetables,Chayote,0.00,avoidable_food_waste,Table 3,8
+SM4,Vegetables,Chayote,0.00,avoidable_food_waste,Table 3,8
+SM1,Vegetables,Other,0.00,avoidable_food_waste,Table 3,8
+SM2,Vegetables,Other,0.33,avoidable_food_waste,Table 3,8
+SM3,Vegetables,Other,0.10,avoidable_food_waste,Table 3,8
+SM4,Vegetables,Other,0.29,avoidable_food_waste,Table 3,8
+SM1,Fruits,Banana,0.00,avoidable_food_waste,Table 3,8
+SM2,Fruits,Banana,0.01,avoidable_food_waste,Table 3,8
+SM3,Fruits,Banana,0.40,avoidable_food_waste,Table 3,8
+SM4,Fruits,Banana,0.22,avoidable_food_waste,Table 3,8
+SM1,Fruits,Orange,0.00,avoidable_food_waste,Table 3,8
+SM2,Fruits,Orange,0.19,avoidable_food_waste,Table 3,8
+SM3,Fruits,Orange,0.24,avoidable_food_waste,Table 3,8
+SM4,Fruits,Orange,0.53,avoidable_food_waste,Table 3,8
+SM1,Fruits,Watermelon,0.00,avoidable_food_waste,Table 3,8
+SM2,Fruits,Watermelon,0.01,avoidable_food_waste,Table 3,8
+SM3,Fruits,Watermelon,0.22,avoidable_food_waste,Table 3,8
+SM4,Fruits,Watermelon,0.00,avoidable_food_waste,Table 3,8
+SM1,Fruits,Papaya,0.00,avoidable_food_waste,Table 3,8
+SM2,Fruits,Papaya,0.03,avoidable_food_waste,Table 3,8
+SM3,Fruits,Papaya,0.09,avoidable_food_waste,Table 3,8
+SM4,Fruits,Papaya,0.07,avoidable_food_waste,Table 3,8
+SM1,Fruits,Other,0.00,avoidable_food_waste,Table 3,8
+SM2,Fruits,Other,0.11,avoidable_food_waste,Table 3,8
+SM3,Fruits,Other,0.58,avoidable_food_waste,Table 3,8
+SM4,Fruits,Other,2.89,avoidable_food_waste,Table 3,8
+SM1,Unavoidable food waste,Coconut,6.26,unavoidable_food_waste,Table 3,8
+SM2,Unavoidable food waste,Coconut,9.02,unavoidable_food_waste,Table 3,8
+SM3,Unavoidable food waste,Coconut,4.59,unavoidable_food_waste,Table 3,8
+SM4,Unavoidable food waste,Coconut,4.30,unavoidable_food_waste,Table 3,8
+SM1,Unavoidable food waste,Sugarcane bagasse,8.44,unavoidable_food_waste,Table 3,8
+SM2,Unavoidable food waste,Sugarcane bagasse,1.40,unavoidable_food_waste,Table 3,8
+SM3,Unavoidable food waste,Sugarcane bagasse,1.66,unavoidable_food_waste,Table 3,8
+SM4,Unavoidable food waste,Sugarcane bagasse,3.27,unavoidable_food_waste,Table 3,8
+SM1,Unavoidable food waste,Peels,0.19,unavoidable_food_waste,Table 3,8
+SM2,Unavoidable food waste,Peels,1.45,unavoidable_food_waste,Table 3,8
+SM3,Unavoidable food waste,Peels,3.32,unavoidable_food_waste,Table 3,8
+SM4,Unavoidable food waste,Peels,7.21,unavoidable_food_waste,Table 3,8
+SM1,Meat,Meat,0.00,avoidable_food_waste,Table 3,8
+SM2,Meat,Meat,3.41,avoidable_food_waste,Table 3,8
+SM3,Meat,Meat,1.35,avoidable_food_waste,Table 3,8
+SM4,Meat,Meat,0.07,avoidable_food_waste,Table 3,8
+SM1,External waste,External waste,1.56,external_waste,Table 3,8
+SM2,External waste,External waste,0.57,external_waste,Table 3,8
+SM3,External waste,External waste,2.74,external_waste,Table 3,8
+SM4,External waste,External waste,3.49,external_waste,Table 3,8
